@@ -29,10 +29,21 @@ def get_videos_from_playlist(playlist_id):
         if not items:
             break
         videos += items
-        if len(items) != 50:
+        if not next_token:
             break
     return videos
 
+def is_good_video(video):
+    title = video.get("snippet").get("title")
+    if title == "7 Signs You're Going To Be Successful":
+        return False
+    elif title == "Finding The ULTIMATE Twitch Stream Camera":
+        return False
+    elif title == "What's the biggest mistake in content marketing?":
+        return False
+    elif title == "Private video":
+        return False
+    return True
 
 with open(sys.argv[1]) as file:
     data = json.load(file)
@@ -43,6 +54,6 @@ with open(sys.argv[1]) as file:
         "title": video.get("snippet", {}).get("title"),
         "published_at": video.get("snippet", {}).get("publishedAt"),
         "id": video.get("snippet", {}).get("resourceId", {}).get("videoId"),
-    } for video in videos], key=lambda x: x['published_at'], reverse=True)
+    } for video in videos if is_good_video(video)], key=lambda x: x['published_at'], reverse=True)
 
 print(json.dumps(data))
