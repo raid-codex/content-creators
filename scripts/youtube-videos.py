@@ -42,7 +42,7 @@ def is_good_video(video):
         return False
     elif title == "What's the biggest mistake in content marketing?":
         return False
-    elif title == "Private video":
+    elif title == "Private video" or title == "Deleted video":
         return False
     return True
 
