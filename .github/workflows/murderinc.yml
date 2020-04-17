@@ -12,8 +12,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/checkout@v2
-      repository: "raid-codex/data"
-      path: "src/github.com/raid-codex/data"
+      with:
+        repository: "raid-codex/data"
+        path: "src/github.com/raid-codex/data"
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
