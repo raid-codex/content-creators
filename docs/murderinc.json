@@ -13,7 +13,10 @@
         "id": "UCW7UrQfYGdHgBzbFNp4Ugtw",
         "playlists": [
             {
-                "id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "tags": [
+                    "champion-guide"
+                ]
             },
             {
                 "id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
@@ -25,248 +28,366 @@
         "videos": [
             {
                 "title": "Top 3 Hardest Hitting Champions in the Game (Single Hit) I Raid Shadow Legends",
-                "published_at": "2020-04-16T14:47:19Z",
-                "id": "ABws6NgbCPo"
+                "published_at": "2020-04-16T14:47:19.000Z",
+                "id": "ABws6NgbCPo",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "Champion Spotlight: Richtoff the Bold I Raid Shadow Legends",
                 "published_at": "2020-04-15T12:33:34.000Z",
-                "id": "_hy7g-EJHG8"
+                "id": "_hy7g-EJHG8",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "richtoff-the-bold"
+                }
             },
             {
                 "title": "Leech and the Clan Boss + DPM Explanation I Raid Shadow Legends",
                 "published_at": "2020-04-11T12:20:11.000Z",
-                "id": "hqpo4IxaXI0"
+                "id": "hqpo4IxaXI0",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Fusion Guide and Champion Spotlight: Skull Lord Var-Gall I Raid Shadow Legends",
                 "published_at": "2020-04-08T06:27:17.000Z",
-                "id": "FsmTjv-l5c4"
+                "id": "FsmTjv-l5c4",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "skull-lord-var-gall"
+                }
             },
             {
                 "title": "Champion Spotlight: Ma'Shalled (Double) I Raid Shadow Legends",
                 "published_at": "2020-04-07T14:03:00.000Z",
-                "id": "u7X2sovZtSM"
+                "id": "u7X2sovZtSM",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "ma-shalled"
+                }
             },
             {
                 "title": "Champion Spotlight: Sir Nicholas I Raid Shadow Legends",
                 "published_at": "2020-04-06T09:41:38.000Z",
-                "id": "WptFiR4mLhw"
+                "id": "WptFiR4mLhw",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "sir-nicholas"
+                }
             },
             {
                 "title": "Game Data Information and Why it is Important I Raid Shadow Legends",
                 "published_at": "2020-04-05T14:53:42.000Z",
-                "id": "fLsG1GFEvXk"
+                "id": "fLsG1GFEvXk",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "The Ultra-NM Team that Rules them All I Raid Shadow Legends",
                 "published_at": "2020-04-04T17:56:12.000Z",
-                "id": "bMrNjRncYyc"
+                "id": "bMrNjRncYyc",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Baron 1 Shot Artist Surplus Damage Monster I Raid Shadow Legends",
                 "published_at": "2020-03-31T21:58:06.000Z",
-                "id": "a_V6bWoAfrs"
+                "id": "a_V6bWoAfrs",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "baron"
+                }
             },
             {
                 "title": "Maximize your Artifact Space with These Simple Rules I Raid Shadow Legends",
                 "published_at": "2020-03-28T22:05:49.000Z",
-                "id": "6CWip-H7q4E"
+                "id": "6CWip-H7q4E",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Revive on Death Variations and Questions Answered I Raid Shadow Legends",
                 "published_at": "2020-03-24T16:01:53.000Z",
-                "id": "f-Z6gjmOihc"
+                "id": "f-Z6gjmOihc",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Revive on Death 1 Key UNM Team Guide I Raid Shadow Legends",
                 "published_at": "2020-03-22T14:57:09.000Z",
-                "id": "zsF355ODMy8"
+                "id": "zsF355ODMy8",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "How to Improve in the Arena from Bronze to Platinum I Raid Shadow Legends",
                 "published_at": "2020-03-19T18:49:26.000Z",
-                "id": "O7vJIgcd0_8"
+                "id": "O7vJIgcd0_8",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Hegemon (x2) I Raid Shadow Legends",
                 "published_at": "2020-03-18T15:11:37.000Z",
-                "id": "4aSa8DZtc_U"
+                "id": "4aSa8DZtc_U",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "hegemon"
+                }
             },
             {
                 "title": "Wurlim Frostking and the Clan Boss + Septimus/Sandlashed Survivor I Raid Shadow Legends",
-                "published_at": "2020-03-17T19:38:38Z",
-                "id": "8Mf2Sgtc2qE"
+                "published_at": "2020-03-17T19:38:38.000Z",
+                "id": "8Mf2Sgtc2qE",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "Complete Guide and List of Clan Boss Speed Tuning I Raid Shadow Legends",
                 "published_at": "2020-03-16T13:18:28.000Z",
-                "id": "aL22HDjLocc"
+                "id": "aL22HDjLocc",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Clan Boss Mistakes to Avoid + Tips for Success I Raid Shadow Legends",
                 "published_at": "2020-03-14T14:53:47.000Z",
-                "id": "MAyusQQvOiE"
+                "id": "MAyusQQvOiE",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Cillian the Lucky + Fusion Guide I Raid Shadow Legends",
                 "published_at": "2020-03-13T11:34:54.000Z",
-                "id": "0_TAdhbTSIk"
+                "id": "0_TAdhbTSIk",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "cillian-the-lucky"
+                }
             },
             {
                 "title": "Champion Spotlight: Yannica the 1 Shot Queen (Rework) I Raid Shadow Legends",
                 "published_at": "2020-03-13T00:22:26.000Z",
-                "id": "GHa9eeiofLs"
+                "id": "GHa9eeiofLs",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "yannica"
+                }
             },
             {
                 "title": "Champion Spotlight: Abbess the Tank Slayer I Raid Shadow Legends",
                 "published_at": "2020-03-12T10:19:01.000Z",
-                "id": "hDqHNLkp5Y8"
+                "id": "hDqHNLkp5Y8",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "abbess"
+                }
             },
             {
                 "title": "Champion Spotlight: Sandlashed Survivor I Raid Shadow Legends",
                 "published_at": "2020-03-11T23:28:02.000Z",
-                "id": "NJLdLBRNm3s"
+                "id": "NJLdLBRNm3s",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "sandlashed-survivor"
+                }
             },
             {
                 "title": "Champion Spotlight: Zavia + Fire Knight 20 1 Shot I Raid Shadow Legends",
                 "published_at": "2020-03-10T13:07:13.000Z",
-                "id": "Ud82llOQk8Y"
+                "id": "Ud82llOQk8Y",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "zavia"
+                }
             },
             {
                 "title": "Siphi the Lost Bride the Queen of Clan Boss I Raid Shadow Legends",
-                "published_at": "2020-03-10T10:41:58Z",
-                "id": "UMS9S6dnutY"
+                "published_at": "2020-03-10T10:41:58.000Z",
+                "id": "UMS9S6dnutY",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "How to Maximize your Great Hall Efficiency I Raid Shadow Legends",
                 "published_at": "2020-03-07T22:57:01.000Z",
-                "id": "Lqh3Djd23VI"
+                "id": "Lqh3Djd23VI",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Tyrant Ixlimor",
                 "published_at": "2020-03-07T22:56:38.000Z",
-                "id": "bSeAoSYgxPY"
+                "id": "bSeAoSYgxPY",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "tyrant-ixlimor"
+                }
             },
             {
                 "title": "Rotos the Lost Groom vs Clan Boss + New UNM Team Meta I Raid Shadow Legends",
-                "published_at": "2020-03-05T05:30:44Z",
-                "id": "jlF1b_dbdR8"
+                "published_at": "2020-03-05T05:30:44.000Z",
+                "id": "jlF1b_dbdR8",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "Champion Spotlight: Skytouched Shaman + Bonus End Game Rare I Raid Shadow Legends",
                 "published_at": "2020-03-05T04:46:28.000Z",
-                "id": "1G1cuvelUSo"
+                "id": "1G1cuvelUSo",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "skytouched-shaman"
+                }
             },
             {
                 "title": "Early to Mid Game Transitions I Raid Shadow Legends",
                 "published_at": "2020-03-04T10:06:42.000Z",
-                "id": "xOjC_pm1ILE"
+                "id": "xOjC_pm1ILE",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Brakus + New Login Rewards and Free Legendary I Raid Shadow Legends",
                 "published_at": "2020-03-03T18:35:19.000Z",
-                "id": "h1dXhX1D520"
+                "id": "h1dXhX1D520",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
             },
             {
                 "title": "60 Million Ultra Nightmare Key from an Account Makeover I Raid Shadow Legends",
-                "published_at": "2020-03-02T11:27:11Z",
-                "id": "I6-9q6fdeiY"
+                "published_at": "2020-03-02T11:27:11.000Z",
+                "id": "I6-9q6fdeiY",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "Champion Spotlight: Ignatius 17 Second NM Farm + 3 Man Spider 20 I Raid Shadow Legends",
                 "published_at": "2020-03-01T08:53:14.000Z",
-                "id": "U1lDc2qVajI"
+                "id": "U1lDc2qVajI",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "ignatius"
+                }
             },
             {
                 "title": "The Key to Success in Faction Wars I Raid Shadow Legends",
                 "published_at": "2020-03-01T08:18:00.000Z",
-                "id": "1O1yTdgco04"
+                "id": "1O1yTdgco04",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Mountain King I Raid Shadow Legends",
                 "published_at": "2020-03-01T08:16:29.000Z",
-                "id": "_yO32VSYfHc"
+                "id": "_yO32VSYfHc",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "mountain-king"
+                }
             },
             {
                 "title": "#1 Account in RSL + Fastest Recorded Dungeons Times I Raid Shadow Legends",
-                "published_at": "2020-02-28T04:18:15Z",
-                "id": "zkRqO2Xjkb4"
+                "published_at": "2020-02-28T04:18:15.000Z",
+                "id": "zkRqO2Xjkb4",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "Rotos in Top 10 Platinum Arena + Gear Advice I Raid Shadow Legends",
-                "published_at": "2020-02-28T04:17:49Z",
-                "id": "Lsl5aLl1_ws"
+                "published_at": "2020-02-28T04:17:49.000Z",
+                "id": "Lsl5aLl1_ws",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "How to Counter Rotos the Lost Groom in Arena I Raid Shadow Legends",
-                "published_at": "2020-02-28T04:17:42Z",
-                "id": "KzqdrXozJ_4"
+                "published_at": "2020-02-28T04:17:42.000Z",
+                "id": "KzqdrXozJ_4",
+                "playlist_id": "PLLJn963Q3yqCyArPSNQuhZ8OqsulHJ29d"
             },
             {
                 "title": "Champion Spotlight: Khoronar I Raid Shadow Legends",
                 "published_at": "2020-02-23T03:14:17.000Z",
-                "id": "cG7ETZwhXyc"
+                "id": "cG7ETZwhXyc",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "khoronar"
+                }
             },
             {
                 "title": "Champion Spotlight: Septimus + 1 Shot Spider 20 I Raid Shadow Legends",
                 "published_at": "2020-02-23T00:46:21.000Z",
-                "id": "KAP1i_jz3OU"
+                "id": "KAP1i_jz3OU",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "septimus"
+                }
             },
             {
                 "title": "Ultimate Clan Boss Speed Comp + Advanced Tips I Raid Shadow Legends",
                 "published_at": "2020-02-20T22:04:54.000Z",
-                "id": "zJJNfSS7lCc"
+                "id": "zJJNfSS7lCc",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Inithwe Bloodtwin I Raid Shadow Legends",
                 "published_at": "2020-02-19T22:37:01.000Z",
-                "id": "ZwWkFqYISDU"
+                "id": "ZwWkFqYISDU",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "inithwe-bloodtwin"
+                }
             },
             {
                 "title": "The Perfect Clan Boss Team + Advanced Tips I Raid Shadow Legends",
                 "published_at": "2020-02-19T04:19:07.000Z",
-                "id": "Dq-7uWSvtEE"
+                "id": "Dq-7uWSvtEE",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Siphi the Lost Bride I Raid Shadow Legends",
                 "published_at": "2020-02-18T07:16:23.000Z",
-                "id": "zWYFNy_qzv0"
+                "id": "zWYFNy_qzv0",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "siphi-the-lost-bride"
+                }
             },
             {
                 "title": "Champion Spotlight: Minaya I Raid Shadow Legends",
                 "published_at": "2020-02-17T17:06:42.000Z",
-                "id": "a_h_F8xkhXw"
+                "id": "a_h_F8xkhXw",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "minaya"
+                }
             },
             {
                 "title": "Champion Spotlight: Angar I Raid Shadow Legends",
                 "published_at": "2020-02-17T02:42:15.000Z",
-                "id": "fMuc18Bx1VU"
+                "id": "fMuc18Bx1VU",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "angar"
+                }
             },
             {
                 "title": "The New Top Tier Poisoner + More! - Raid Shadow Legends",
                 "published_at": "2020-02-16T05:03:10.000Z",
-                "id": "g8uqIsxCtd8"
+                "id": "g8uqIsxCtd8",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "How to Gear like an Absolute Boss I Raid: Shadow Legends",
                 "published_at": "2020-02-16T04:52:45.000Z",
-                "id": "cPEKEQg_tL0"
+                "id": "cPEKEQg_tL0",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "The Ultimate Mastery Guide  | Raid: Shadow Legends",
                 "published_at": "2020-02-16T04:52:39.000Z",
-                "id": "Lz6iVVtYt4E"
+                "id": "Lz6iVVtYt4E",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
             },
             {
                 "title": "Champion Spotlight: Wurlim Frostking I Raid Shadow Legends + Special Guest!",
                 "published_at": "2020-02-16T04:46:26.000Z",
-                "id": "80rD4-pWQ1M"
+                "id": "80rD4-pWQ1M",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "wurlim-frostking"
+                }
             },
             {
                 "title": "Champion Spotlight: Rotos the Lost Groom I Raid Shadow Legends",
                 "published_at": "2020-02-16T04:46:17.000Z",
-                "id": "RdVyX4erkd8"
+                "id": "RdVyX4erkd8",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "rotos-the-lost-groom"
+                }
             }
         ]
     }

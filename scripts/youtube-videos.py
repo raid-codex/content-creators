@@ -33,6 +33,7 @@ def get_videos_from_playlist(playlist_id):
             break
     return videos
 
+
 def is_good_video(video):
     title = video.get("snippet").get("title")
     if title == "7 Signs You're Going To Be Successful":
@@ -45,15 +46,20 @@ def is_good_video(video):
         return False
     return True
 
+
 with open(sys.argv[1]) as file:
     data = json.load(file)
     videos = []
     for playlist in data['youtube']['playlists']:
-        videos += get_videos_from_playlist(playlist_id=playlist['id'])
-    data['youtube']['videos'] = sorted([{
-        "title": video.get("snippet", {}).get("title"),
-        "published_at": video.get("snippet", {}).get("publishedAt"),
-        "id": video.get("snippet", {}).get("resourceId", {}).get("videoId"),
-    } for video in videos if is_good_video(video)], key=lambda x: x['published_at'], reverse=True)
+        from_playlist = get_videos_from_playlist(playlist_id=playlist['id'])
+        videos += [{
+            "title": video.get("snippet", {}).get("title"),
+            "published_at": video.get("snippet", {}).get("publishedAt"),
+            "id": video.get("snippet", {}).get("resourceId", {}).get("videoId"),
+            "playlist_id": playlist['id'],
+        } for video in from_playlist if is_good_video(video)]
+    data['youtube']['videos'] = sorted(videos,
+                                       key=lambda x: x['published_at'], reverse=True)
 
-print(json.dumps(data))
+with open(sys.argv[1], "w+") as file:
+    json.dump(data, file, indent=4)
