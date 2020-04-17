@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
+      repository: "raid-codex/data"
+      path: "src/github.com/raid-codex/data"
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
@@ -23,7 +26,8 @@ jobs:
       env:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
-        make CREATOR=murderinc update_youtube
+        export GOPATH=`pwd`
+        make CREATOR=hellhades update_creator
     - name: Create Pull Request
       id: cpr
       uses: peter-evans/create-pull-request@v2

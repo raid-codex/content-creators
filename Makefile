@@ -3,3 +3,5 @@ update_youtube:
 
 identify_champion_guides:
 	python3 scripts/identify-champion-guides.py docs/$(CREATOR).json
+
+update_creator: update_youtube identify_champion_guides
