@@ -3,9 +3,6 @@
 name: Hellhades
 
 on:
-  push:
-    branches:
-    - master
   schedule:
     - cron:  '0 12 * * *'
 
@@ -32,6 +29,7 @@ jobs:
       run: |
         export GOPATH=`pwd`
         make CREATOR=hellhades update_creator
+        rm -rf src/
     - name: Create Pull Request
       id: cpr
       uses: peter-evans/create-pull-request@v2
