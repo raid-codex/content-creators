@@ -28,7 +28,7 @@ jobs:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
         export GOPATH=`pwd`
-        make CREATOR=hellhades update_creator
+        make CREATOR=murderinc update_creator
         rm -rf src/
     - name: Create Pull Request
       id: cpr
