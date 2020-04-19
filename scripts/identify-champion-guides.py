@@ -14,9 +14,11 @@ with open(sys.argv[1]) as file:
                     if "champion-guide" in playlist.get("tags", ())]
     for video in creator['youtube']['videos']:
         if video['playlist_id'] in ids_to_watch:
+            if "champion_guide" in video:
+                continue
             champions_matching = [
                 champion for champion in champions
-                if champion['name'] in video['title']
+                if champion['name'].lower() in video['title'].lower()
             ]
             if not champions_matching:
                 continue

@@ -16,13 +16,19 @@
                 "title": "RAID: Shadow Legends | Yannica Champion Spotlight | The Leech Meta series continues",
                 "published_at": "2020-04-18T12:30:08.000Z",
                 "id": "5V9G4x2yNWA",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "yannica"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Scyl of the Drake Champion Guide | NEW FREE LEGENDARY! 180 day login reward!",
                 "published_at": "2020-04-18T09:33:47.000Z",
                 "id": "vadWxacrpb8",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "scyl-of-the-drakes"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | How to beat Faction Wars, Episode 6: Undead Hordes. Great rares & Epics here!",
@@ -70,7 +76,10 @@
                 "title": "RAID: Shadow Legends | Lanakis The Chosen Champion Guide | Ally Attack Legendary GOD!",
                 "published_at": "2020-04-13T12:31:58.000Z",
                 "id": "LV0TD7Lwfb0",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "lanakis-the-chosen"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | HOW TO BEAT FACTION WARS, EPISODE 2: BARBARIANS!",
@@ -82,7 +91,10 @@
                 "title": "RAID: Shadow Legends | Oathbound champion guide | Reworked 1.14, NOW HES GOOD! Mr Crowd Control!",
                 "published_at": "2020-04-12T13:09:08.000Z",
                 "id": "O9SXwLD2GFM",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "oathbound"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | How to beat Faction Wars Episode 1: The Banner Lords!",
@@ -112,19 +124,28 @@
                 "title": "RAID: Shadow Legends | Skull Lord Var-Gall Champion Guide | FUSION |  Worth fusing or not??!",
                 "published_at": "2020-04-09T09:37:56.000Z",
                 "id": "G6Cv6Qy_Qig",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "skull-lord-var-gall"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | THE 'Ma'Shalled' GUIDE! From worst Legendary in the game to the best? INSANE!",
                 "published_at": "2020-04-08T12:05:30.000Z",
                 "id": "Wg7SENjbhAk",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "ma-shalled"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | DIABOLIST CHAMPION GUIDE, FARMABLE SPEED RARE! APOTHECARY REPLACEMENT EARLY!",
                 "published_at": "2020-04-07T10:23:06.000Z",
                 "id": "LG_dplmeDM0",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "diabolist"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | TAKING ON LEVEL 20 DUNGEONS, low spend account!",
@@ -148,7 +169,10 @@
                 "title": "RAID: Shadow Legends | DARK ELHAIN CHAMPION SPOTLIGHT | FTP DUNGEON & ARENA AOE NUKER!  FEAT VALAR",
                 "published_at": "2020-04-02T16:50:45.000Z",
                 "id": "UlP7oGBLT6M",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "dark-elhain"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | GOLD RUSH ACCOUNT GIVEAWAY! PLARIUM ARE LETTING US ALL DO IT! WANT A WARLORD?",
@@ -172,7 +196,10 @@
                 "title": "RAID: Shadow Legends | Madame Serris Champion Spotlight, Top 5 Epic in the game! Void Arena GOD!",
                 "published_at": "2020-03-31T14:10:27.000Z",
                 "id": "Il-gY5zzrLE",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "madame-serris"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | GOLD RUSH DAY 2 UPDATE IM IN SILVER 1!, WHERE SHOULD I FARM GEAR??!",
@@ -190,7 +217,10 @@
                 "title": "RAID: Shadow Legends | LUA Champion Spotlight | Full Guide to this Fireknight Goddess!",
                 "published_at": "2020-03-30T10:29:10.000Z",
                 "id": "3pCzGyBiuwQ",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "lua"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | GOLD RUSH DAY 1 UPDATE! I NEED TO CATCH UP! NEW SHARD PULL WAS DECENT!",
@@ -226,13 +256,19 @@
                 "title": "RAID: Shadow Legends | x10 Jareg Summons | Is it worth it?! Jareg Guide after review!",
                 "published_at": "2020-03-25T11:24:34.000Z",
                 "id": "wjzJ0Qv-hfQ",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "jareg"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Zargala Champion Guide | Top 5 Epic in Raid Shadow Legends! Arena Nuker!",
                 "published_at": "2020-03-24T16:52:45.000Z",
                 "id": "zs9K3bMPPOM",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "zargala"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | HOW TO BEAT THE CLANBOSS! FULL GUIDE!",
@@ -250,7 +286,10 @@
                 "title": "RAID: Shadow Legends | SkullCrusher Champion Guide | MOST WANTED EPIC IN THE GAME!!",
                 "published_at": "2020-03-23T12:44:41.000Z",
                 "id": "N_CCCSDhXzY",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "skullcrusher"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | ACCOUNT TAKEOVER | Building a Platinum Arena team & a 4 key UNM team!",
@@ -274,13 +313,19 @@
                 "title": "RAID: Shadow Legends | Tallia Champion Guide | Arena GOD! One of the hardest hitting AOE EPICs!",
                 "published_at": "2020-03-18T16:06:26.000Z",
                 "id": "aQPneuQDSAo",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "tallia"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Soulbond Bowyer Champion Guide | Tank Slayer | Rare for Arena, FK & Spider!",
                 "published_at": "2020-03-18T11:29:34.000Z",
                 "id": "352-0W6hVoA",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "soulbond-bowyer"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Clan Boss Series, Top Poisoners in the game FULL Breakdown & tested! Redone!",
@@ -298,7 +343,10 @@
                 "title": "RAID: Shadow Legends | CILLIAN THE LUCKY CHAMPION GUIDE | GREAT ARENA, FIREKNIGHT & FACTION WARS!",
                 "published_at": "2020-03-14T13:29:35.000Z",
                 "id": "pfxAdrLfvw0",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "cillian-the-lucky"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | MID GAME LOW SPEND ACC TAKEOVER | HOW TO DOUBLE CB DAMAGE & BEAT SPIDER 14+",
@@ -310,13 +358,19 @@
                 "title": "RAID: Shadow Legends | Frozen Banshee rework | Rare Clan Boss champion | Best poisoner in the game?!",
                 "published_at": "2020-03-12T13:58:16.000Z",
                 "id": "-2rMekqYCnM",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "frozen-banshee"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Gala Longbraids Champion Guide | Void Epic | Big Hitter, Arena Specialist!",
                 "published_at": "2020-03-11T12:08:58.000Z",
                 "id": "GEr5n1w31uI",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "gala-longbraids"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | COFFIN SMASHER | BEST RARE IN THE GAME FOR CLAN BOSS! Decrease Atk & HP burn",
@@ -334,7 +388,10 @@
                 "title": "RAID: Shadow Legends | Siphi the lost Bride showcase | Best Legendary in the game 2020!",
                 "published_at": "2020-03-09T11:08:08.000Z",
                 "id": "rC0MSaTuwOs",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "siphi-the-lost-bride"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Top 10 Beginners Tips every new player should know Feat: Cold Brew Gaming!",
@@ -346,7 +403,10 @@
                 "title": "RAID: Shadow Legends | Sandlashed Survivor | Insane New Epic!! Top Tier Clanboss support",
                 "published_at": "2020-03-08T16:51:25.000Z",
                 "id": "Xn2mFM7DVrs",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "sandlashed-survivor"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | How to 2 key Nightmare Clan Boss with a Speed team | Sandlashed Survivor MVP!",
@@ -364,7 +424,10 @@
                 "title": "RAID: Shadow Legends | ARMIGER CHAMPION GUIDE | IS HE AN UNCOMMON OR A LEGENDARY? YOU DECIDE!",
                 "published_at": "2020-03-06T12:40:35.000Z",
                 "id": "nXMHMqwr0Po",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "armiger"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | HOW TO EASILY COMPLETE THE ARTIFACT EVENTS?! EASIEST EVENTS TO MAX REWARDS!",
@@ -394,7 +457,10 @@
                 "title": "RAID: Shadow Legends | HIGH KHATUN CHAMPION GUIDE, GREAT FREE TO PLAY EPIC!",
                 "published_at": "2020-03-02T11:12:01.000Z",
                 "id": "RtLqJ-BSt60",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "high-khatun"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Account Takeover Auto Spider 20 & ARENA BUILD! Sponsored by Dragon Champions",
@@ -436,7 +502,10 @@
                 "title": "RAID: Shadow Legends | BUSTED! WHO PLAY TESTS THIS STUFF??! MINAYA & KHORONAR TEAM UP!",
                 "published_at": "2020-02-25T20:39:46.000Z",
                 "id": "kHMl85ToVtc",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "khoronar"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | ACCOUNT TAKEOVER | LOW SPENDER | WORST GREAT HALL EVER!!  DUNGEONS 15+",
@@ -454,13 +523,19 @@
                 "title": "RAID: Shadow Legends | Coldheart Champion Guide - Best Single Target Damage in RAID | Bluestacks 4",
                 "published_at": "2020-02-24T15:39:27.000Z",
                 "id": "tAb_INub3Lo",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "coldheart"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Top 10 Rare | Marked Champion Guide | Great for Clan Boss!",
                 "published_at": "2020-02-23T23:07:05.000Z",
                 "id": "BevMtI6UIOY",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "marked"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Rotos taking on the Ultra NM CB | Account Takeover",
@@ -472,7 +547,10 @@
                 "title": "RAID: Shadow Legends | Khoronar 'Big Dave' Champion Spotlight | New Beastly Void Legendary",
                 "published_at": "2020-02-22T09:15:50.000Z",
                 "id": "groopa0g6Pg",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "khoronar"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | HELP ME GET MY ARBITER!! Taking on Fireknight & Spider on auto! ACCT TAKEOVER",
@@ -484,7 +562,10 @@
                 "title": "RAID: Shadow Legends | MISCREATED MONSTER CHAMPION GUIDE, TOP 3 EPIC IN THE GAME! SHOWN EVERYWHERE!",
                 "published_at": "2020-02-20T11:09:12.000Z",
                 "id": "3mnsiy9z6h4",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "miscreated-monster"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Double Mountain King Arena team! People are getting HURT!",
@@ -496,13 +577,19 @@
                 "title": "RAID: Shadow Legends | FROZEN BANSHEE Champion Spotlight | Great Rare for Clanboss IF YOU MANUAL!",
                 "published_at": "2020-02-19T10:21:37.000Z",
                 "id": "xAheVOJcJ90",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "frozen-banshee"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Rotos the Lost Groom champion guide. Worth the Fusion?? YES!",
                 "published_at": "2020-02-18T20:37:17.000Z",
                 "id": "unoYBCMslbE",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "rotos-the-lost-groom"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Turvold Smash Vs Speed Tuned team! This one was really tough!",
@@ -574,7 +661,10 @@
                 "title": "RAID: Shadow Legends | DRACOMORPH CHAMPION GUIDE | Sponsored by Bluestacks & Vikings: War of Clans",
                 "published_at": "2020-02-04T11:10:27.000Z",
                 "id": "M4YrFbC7xD4",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "dracomorph"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | CLAN BOSS SERIES | DAMAGE MITIGATION | STALWART GEAR, NOROG, DUTCHESS!",
@@ -640,7 +730,10 @@
                 "title": "RAID: Shadow Legends | RAE CHAMPION GUIDE | TOP TIER LEGENDARY! LAUGH IN THE FACE OF YOUR FOES!",
                 "published_at": "2020-01-26T13:54:46.000Z",
                 "id": "a_2Mn8mX5tw",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "rae"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | FULL EPIC TIER LIST 2020 BROKEN DOWN BY CONTENT AREA!",
@@ -676,13 +769,19 @@
                 "title": "RAID: Shadow Legends | NOROG CHAMPION GUIDE - Is this PIG 'VAULT LORD' or 'KING OF THE FARM'?",
                 "published_at": "2020-01-22T23:45:04.000Z",
                 "id": "apIOC6s5ngk",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "norog"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Rhazin Scarhide Champion Guide | Legendary Fusion, amazing champion",
                 "published_at": "2020-01-21T21:01:20.000Z",
                 "id": "g4xzUonzSKc",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "rhazin-scarhide"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | ACCOUNT TAKEOVER | OVER DOUBLED CLAN BOSS DAMAGE ON BRUTAL & NIGHTMARE!",
@@ -694,13 +793,19 @@
                 "title": "RAID: Shadow Legends | Tomb Lord Champion Guide | Legendary hero, top tier Ice Golem & Fire Knights!",
                 "published_at": "2020-01-19T16:39:47.000Z",
                 "id": "cGyU3l-itHk",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "tomb-lord"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | KAEL CHAMPION GUIDE | Best starter champion in the game! Viable endgame!",
                 "published_at": "2020-01-18T17:49:44.000Z",
                 "id": "fZPRidRHGtA",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "kael"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | CLAN BOSS SERIES EPISODE 7: DOUBLE COUNTER ATTACK (END GAME STRATEGY)",
@@ -724,7 +829,10 @@
                 "title": "RAID: Shadow Legends | Whisper Champion Guide | One Trick Pony?? Void Epic, Great in Clan Boss no CA",
                 "published_at": "2020-01-14T15:40:30.000Z",
                 "id": "LDJIKEPuGYQ",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "whisper"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | CLAN BOSS SERIES EPISODE 6: Beat the CB without Counter | Whisper the Answer?",
@@ -736,7 +844,10 @@
                 "title": "RAID: Shadow Legends | Fellhound Guide | Void Rare | Top 3 Campaign farmer and Top 3 Fireknight Rare",
                 "published_at": "2020-01-13T21:35:57.000Z",
                 "id": "yTkrM0hEB60",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "fellhound"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | ACCOUNT TAKEOVER UNDERWORLD | CLANBOSS, SPIDER & MOUNTAIN KING IN THE ARENA!",
@@ -760,7 +871,10 @@
                 "title": "RAID: Shadow Legends | Reliquary Tender Champion Guide | Best Rare Supp 4 ENDGAME! All Rare Drag20!",
                 "published_at": "2020-01-08T17:58:05.000Z",
                 "id": "RF-Z7xaNRlQ",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "reliquary-tender"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | How to beat the Spider! This Dungeon is TOUGH! 4 methods!",
@@ -790,7 +904,10 @@
                 "title": "RAID: Shadow Legends | War Maiden - Top 3 Rares in the game, BEST FREE TO PLAY RARE for endgame!",
                 "published_at": "2020-01-04T14:58:36.000Z",
                 "id": "iZ2zrJz70eU",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "warmaiden"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | LDB ACCOUNT TAKEOVER | No Counter Attack CB team - Boosting damage by 80%!",
@@ -802,13 +919,19 @@
                 "title": "RAID: Shadow Legends | Apothecary Champion Guide - Top 3 rares in the game! Right through to endgame",
                 "published_at": "2020-01-02T02:11:45.000Z",
                 "id": "XATUqBliOKw",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "apothecary"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Valla Champion Guide 2, THIS TIME I BUILT HER FOR DAMAGE! NM Campaign farmer?",
                 "published_at": "2019-12-31T15:59:23.000Z",
                 "id": "9aDukoya9vs",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "valla"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | DRAGON GUIDE - Easiest ways to beat the dragon up, from beginner to endgame!",
@@ -820,7 +943,10 @@
                 "title": "RAID: Shadow Legends | Mausoleum Mage Champion Guide - One of the BEST EPICS in the game!",
                 "published_at": "2019-12-30T23:06:24.000Z",
                 "id": "gwkpCPwuvCI",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "mausoleum-mage"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Silhouette Gaming PRIZE WINNER account takeover. UNKILLABLE CB team, Spiders!",
@@ -832,7 +958,10 @@
                 "title": "RAID: Shadow Legends | Valla Champion Guide - NEW AMAZON PRIME EPIC full test!",
                 "published_at": "2019-12-29T16:02:41.000Z",
                 "id": "9jCUjNYPgAg",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "valla"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | ACCOUNT TAKEOVER - Demonspinner | 3 key UNM CB? Build Spider 20 auto team?",
@@ -880,7 +1009,10 @@
                 "title": "RAID: Shadow Legends | Altan 'The BOOM' Champion Guide",
                 "published_at": "2019-12-24T09:19:00.000Z",
                 "id": "2k12EqTU9os",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "altan"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | ACCOUNT TAKEOVER - Shawn_Destin | 80% increased CB damage and Spider strats!",
@@ -910,7 +1042,10 @@
                 "title": "RAID: Shadow Legends | Tayrel Champion Guide - More Legendary than Epic! Timestamps in description!",
                 "published_at": "2019-12-17T21:13:56.000Z",
                 "id": "BPQ6p8vk4Kk",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "tayrel"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | WillyZ Account Takeover, How to increase your Clan Boss damage. 5 easy steps!",
@@ -928,25 +1063,37 @@
                 "title": "RAID: Shadow Legends | Tormin The Cold Champion Guide, Day 2 - Full review | PASSIVE BUSTED",
                 "published_at": "2019-12-15T23:34:48.000Z",
                 "id": "UtTV49HFXbk",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "tormin-the-cold"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Tormin the Cold, Live in the Platinum Arena! GOD TIER!!!!",
                 "published_at": "2019-12-15T23:34:48.000Z",
                 "id": "H-0OIn4LwYQ",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "tormin-the-cold"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Ignatius Champion Guide, Top tier Spider, Arena and Ice Golem",
                 "published_at": "2019-12-15T23:25:29.000Z",
                 "id": "YsxK6hr1IqU",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "ignatius"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Steelskull Champion Guide",
                 "published_at": "2019-12-12T18:59:00.000Z",
                 "id": "7XkWhOML8Tg",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "steelskull"
+                }
             },
             {
                 "title": "RAID SHADOW LEGENDS | BEST RARES IN THE GAME, DO NOT FEED THESE CHAMPIONS!!",
@@ -1000,25 +1147,37 @@
                 "title": "RAID: Shadow Legends | Warlord Champion Guide",
                 "published_at": "2019-12-11T19:45:27.000Z",
                 "id": "TS3T_ZkaATw",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "warlord"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Robar Champion Guide | How to take down stage 15 & 16 of FW & Stunlock PVP",
                 "published_at": "2019-12-11T19:45:27.000Z",
                 "id": "HtTtBJXtiOs",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "robar"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Skartorsis Champion Guide",
                 "published_at": "2019-12-11T19:45:27.000Z",
                 "id": "HESh6Hv_sas",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "skartorsis"
+                }
             },
             {
                 "title": "RAID SHADOW LEGENDS | ROYAL GUARD & PRINCE KYMAR NUKING DUNGEONS - SPEED FARM SPIDER & DRAGON",
                 "published_at": "2019-12-11T19:45:02.000Z",
                 "id": "vAcKjY8YwP8",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "prince-kymar"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | D34D 3k Sub Winner Acc Takeover - How to double NM Clan Boss Damage in 4hrs!!",
@@ -1066,19 +1225,28 @@
                 "title": "Baron Void Legendary Champion Spotlight",
                 "published_at": "2019-12-02T21:19:26.000Z",
                 "id": "axhoo77EIkw",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "baron"
+                }
             },
             {
                 "title": "RAID SHADOW LEGENDS | Bellower Champion Guide",
                 "published_at": "2019-12-02T21:19:16.000Z",
                 "id": "vNsxMk6pW7Q",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "bellower"
+                }
             },
             {
                 "title": "Skullcrown Champion Guide",
                 "published_at": "2019-12-02T21:19:08.000Z",
                 "id": "v04yKsEOWog",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "skullcrown"
+                }
             },
             {
                 "title": "RAID SHADOW LEGENDS | GREAT HALL EXPLAINED BEGINNER TO END GAME",
@@ -1095,7 +1263,10 @@
         ],
         "playlists": [
             {
-                "id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "tags": [
+                    "champion-guide"
+                ]
             },
             {
                 "id": "PLUIeSAUVoCqKFnKeFYMywVfDEpfcPxcOR"
