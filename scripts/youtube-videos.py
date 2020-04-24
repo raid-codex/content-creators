@@ -49,15 +49,25 @@ def is_good_video(video):
 
 with open(sys.argv[1]) as file:
     data = json.load(file)
+    old_videos = {video['id']: video for video in data['youtube']['videos']}
     videos = []
     for playlist in data['youtube']['playlists']:
         from_playlist = get_videos_from_playlist(playlist_id=playlist['id'])
-        videos += [{
-            "title": video.get("snippet", {}).get("title"),
-            "published_at": video.get("snippet", {}).get("publishedAt"),
-            "id": video.get("snippet", {}).get("resourceId", {}).get("videoId"),
-            "playlist_id": playlist['id'],
-        } for video in from_playlist if is_good_video(video)]
+        for video in from_playlist:
+            if not is_good_video(video):
+                continue
+            id = video.get("snippet", {}).get("resourceId", {}).get("videoId")
+            if old_videos[id]:
+                d = old_videos[id]
+            else:
+                d = {
+                    "title": video.get("snippet", {}).get("title"),
+                    "published_at": video.get("snippet", {}).get("publishedAt"),
+                    "id": id,
+                    "playlist_id": playlist['id'],
+                }
+                print(f"new video: {d['title']}")
+            videos.append(d)
     data['youtube']['videos'] = sorted(videos,
                                        key=lambda x: x['published_at'], reverse=True)
 

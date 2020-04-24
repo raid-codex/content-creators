@@ -966,7 +966,7 @@
                 "id": "iZ2zrJz70eU",
                 "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
                 "champion_guide": {
-                    "champion_slug": "maiden"
+                    "champion_slug": "warmaiden"
                 }
             },
             {
@@ -1186,18 +1186,6 @@
                 "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
             },
             {
-                "title": "RAID SHADOW LEGENDS | GREAT HALL EXPLAINED BEGINNER TO END GAME",
-                "published_at": "2019-12-11T19:46:35.000Z",
-                "id": "Ia8bgzAb-dY",
-                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
-            },
-            {
-                "title": "RAID SHADOW LEGENDS | SILVER TUTORIAL & ARTIFACT EVENT TIPS",
-                "published_at": "2019-12-11T19:46:07.000Z",
-                "id": "8gdTWQBYrX4",
-                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
-            },
-            {
                 "title": "RAID: Shadow Legends | Masteries Masterclass",
                 "published_at": "2019-12-11T19:46:07.000Z",
                 "id": "NrAp6PJXuLk",
@@ -1252,12 +1240,6 @@
                 "playlist_id": "PLUIeSAUVoCqIORdeSlS0lSbuAo2nX_Dht"
             },
             {
-                "title": "Trumpilicious Account Take Over | Clan Boss Speed Tune Tutorial",
-                "published_at": "2019-12-11T19:43:57.000Z",
-                "id": "WsB9uDEJfmo",
-                "playlist_id": "PLUIeSAUVoCqIORdeSlS0lSbuAo2nX_Dht"
-            },
-            {
                 "title": "RAID SHADOW LEGENDS | Best Attack Down Champions for Clan Boss",
                 "published_at": "2019-12-11T19:43:11.000Z",
                 "id": "68OkMo2gtdg",
@@ -1268,6 +1250,12 @@
                 "published_at": "2019-12-11T19:43:11.000Z",
                 "id": "QA53SS6Pes4",
                 "playlist_id": "PLUIeSAUVoCqJwT0pvMuYSNK4ZAUDxvWRo"
+            },
+            {
+                "title": "Trumpilicious Account Take Over | Clan Boss Speed Tune Tutorial",
+                "published_at": "2019-12-02T21:21:42.000Z",
+                "id": "WsB9uDEJfmo",
+                "playlist_id": "PLUIeSAUVoCqIORdeSlS0lSbuAo2nX_Dht"
             },
             {
                 "title": "Trumpilicious Account Take Over | Clan Boss Speed Tune Tutorial",
@@ -1312,6 +1300,18 @@
                 "title": "RAID SHADOW LEGENDS | GREAT HALL EXPLAINED BEGINNER TO END GAME",
                 "published_at": "2019-12-02T21:18:02.000Z",
                 "id": "Ia8bgzAb-dY",
+                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
+            },
+            {
+                "title": "RAID SHADOW LEGENDS | GREAT HALL EXPLAINED BEGINNER TO END GAME",
+                "published_at": "2019-12-02T21:18:02.000Z",
+                "id": "Ia8bgzAb-dY",
+                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
+            },
+            {
+                "title": "RAID SHADOW LEGENDS | SILVER TUTORIAL & ARTIFACT EVENT TIPS",
+                "published_at": "2019-12-02T21:14:37.000Z",
+                "id": "8gdTWQBYrX4",
                 "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
             },
             {
