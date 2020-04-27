@@ -57,7 +57,7 @@ with open(sys.argv[1]) as file:
             if not is_good_video(video):
                 continue
             id = video.get("snippet", {}).get("resourceId", {}).get("videoId")
-            if old_videos[id]:
+            if old_videos.get(id):
                 d = old_videos[id]
             else:
                 d = {
