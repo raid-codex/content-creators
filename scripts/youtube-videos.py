@@ -58,7 +58,7 @@ with open(sys.argv[1]) as file:
                 continue
             id = video.get("snippet", {}).get("resourceId", {}).get("videoId")
             if old_videos.get(id):
-                d = old_videos[id]
+                continue
             else:
                 d = {
                     "title": video.get("snippet", {}).get("title"),
@@ -67,8 +67,8 @@ with open(sys.argv[1]) as file:
                     "playlist_id": playlist['id'],
                 }
                 print(f"new video: {d['title']}")
-            videos.append(d)
-    data['youtube']['videos'] = sorted(videos,
+                old_videos[id] = d
+    data['youtube']['videos'] = sorted(old_videos.values(),
                                        key=lambda x: x['published_at'], reverse=True)
 
 with open(sys.argv[1], "w+") as file:
