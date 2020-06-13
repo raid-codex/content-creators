@@ -37,7 +37,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "feat: updated BGE"
         author: Geoffrey Bauduin <geoffreybauduin@users.noreply.github.com>
-
+        labels: automerge
         title: 'Updated BGE'
         base: master
         branch: wbge
