@@ -37,7 +37,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "feat: updated hellhades"
         author: Geoffrey Bauduin <geoffreybauduin@users.noreply.github.com>
-
+        labels: automerge
         title: 'Updated hellhades'
         base: master
         branch: whellhades
