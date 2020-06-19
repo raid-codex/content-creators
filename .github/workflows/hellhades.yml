@@ -44,4 +44,3 @@ jobs:
         body: |
           Automatically generated
         assignees: geoffreybauduin
-        reviewers: geoffreybauduin
