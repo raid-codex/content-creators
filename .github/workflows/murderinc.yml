@@ -37,11 +37,9 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "feat: updated MurderInc"
         author: Geoffrey Bauduin <geoffreybauduin@users.noreply.github.com>
-        labels: automerge
         title: 'Updated MurderInc'
         base: master
         branch: wmurderinc
         body: |
           Automatically generated
         assignees: geoffreybauduin
-        reviewers: geoffreybauduin
