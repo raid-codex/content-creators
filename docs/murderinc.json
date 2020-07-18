@@ -40,7 +40,10 @@
                 "title": "Kantra the Cyclone Fusion Guide I Raid Shadow Legends",
                 "published_at": "2020-07-13T12:43:31Z",
                 "id": "BNW_yN4RIio",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "kantra-the-cyclone"
+                }
             },
             {
                 "title": "*New* Champion Card System + Full Fusion Requirements I Raid Shadow Legends",
