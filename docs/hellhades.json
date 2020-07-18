@@ -14,6 +14,12 @@
         "id": "UCbAYgOLXfYtc-HgoxjCnDZQ",
         "videos": [
             {
+                "title": "RAID: Shadow Legends | What gear to keep? Jewelry / Jewellery guide! Best way to grind silver!",
+                "published_at": "2020-07-17T10:35:51Z",
+                "id": "Pg8l9XtSyyI",
+                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
+            },
+            {
                 "title": "RAID: Shadow Legends | All Rares Reviewed! | Who is food and who should you invest in?!",
                 "published_at": "2020-07-17T09:31:06Z",
                 "id": "Xewamun5zxo",
@@ -45,9 +51,9 @@
                 "published_at": "2020-07-13T13:06:13Z",
                 "id": "-xcxhWCmwNo",
                 "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
-		"champion_guide": {
-			"champion_slug": "kantra-the-cyclone"
-		}
+                "champion_guide": {
+                    "champion_slug": "kantra-the-cyclone"
+                }
             },
             {
                 "title": "RAID: Shadow Legends | Nightmare Campaign & moving to endgame Dungeons Takeover!",
