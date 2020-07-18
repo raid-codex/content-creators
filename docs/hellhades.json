@@ -44,7 +44,10 @@
                 "title": "RAID: Shadow Legends | Kantra the Cyclone Guide! New Fusion tested everywhere! I think she is worth!",
                 "published_at": "2020-07-13T13:06:13Z",
                 "id": "-xcxhWCmwNo",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+		"champion_guide": {
+			"champion_slug": "kantra-the-cyclone"
+		}
             },
             {
                 "title": "RAID: Shadow Legends | Nightmare Campaign & moving to endgame Dungeons Takeover!",
