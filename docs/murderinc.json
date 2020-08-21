@@ -31,6 +31,21 @@
         ],
         "videos": [
             {
+                "title": "The Truth About Resistance I Raid Shadow Legends",
+                "published_at": "2020-08-20T16:13:03Z",
+                "id": "bQRawxTjqyU",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
+            },
+            {
+                "title": "Champion Spotlight: Warlord I Raid Shadow Legends",
+                "published_at": "2020-08-20T15:55:05Z",
+                "id": "L4Vb_qETPTU",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "warlord"
+                }
+            },
+            {
                 "title": "Champion Spotlight: Kreela Witch-Arm (3 Builds) I Raid Shadow Legends",
                 "published_at": "2020-08-16T14:54:50Z",
                 "id": "oAgCaVDb1Wg",
