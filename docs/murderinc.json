@@ -31,6 +31,27 @@
         ],
         "videos": [
             {
+                "title": "An In Depth Look at Lydia I Raid Shadow Legends",
+                "published_at": "2020-09-24T11:38:21Z",
+                "id": "hhiYjpsNjTU",
+                "playlist_id": "PLLJn963Q3yqBOcGqfDx09NRFDV9xEkK4D"
+            },
+            {
+                "title": "Hexia is BROKEN I Raid Shadow Legends",
+                "published_at": "2020-09-23T13:05:23Z",
+                "id": "mArTCMomrm0",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "hexia"
+                }
+            },
+            {
+                "title": "How to Approach the New Forge System I Raid Shadow Legends",
+                "published_at": "2020-09-22T12:23:06Z",
+                "id": "6MPyVV7U73c",
+                "playlist_id": "PLLJn963Q3yqDcSDcQ_eOoKQE9l-w23UBD"
+            },
+            {
                 "title": "Huge Information Every Single Player Should Know I Raid Shadow Legends",
                 "published_at": "2020-09-20T14:57:53Z",
                 "id": "IVcrC_NaYCA",
