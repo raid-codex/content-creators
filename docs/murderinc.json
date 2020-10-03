@@ -31,6 +31,15 @@
         ],
         "videos": [
             {
+                "title": "Champion Spotlight: Saito the Master of All I Raid Shadow Legends",
+                "published_at": "2020-10-02T17:46:42Z",
+                "id": "3EySTo8z8TI",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "saito"
+                }
+            },
+            {
                 "title": "All You Need to Know I Dragon Champions",
                 "published_at": "2020-09-28T11:15:34Z",
                 "id": "yFLMJ-oCGPY",
