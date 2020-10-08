@@ -31,6 +31,15 @@
         ],
         "videos": [
             {
+                "title": "Champion Spotlight: Kaiden I Raid Shadow Legends",
+                "published_at": "2020-10-07T21:40:32Z",
+                "id": "b9novvuQzlE",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "kaiden"
+                }
+            },
+            {
                 "title": "Champion Spotlight: Baroth the Bloodsoaked I Raid Shadow Legends",
                 "published_at": "2020-10-07T01:53:48Z",
                 "id": "ue1_oFzhv0c",
