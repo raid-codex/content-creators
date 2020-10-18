@@ -1,0 +1,3385 @@
+{
+    "name": "Chofly Elite",
+    "type": "youtube",
+    "excerpt": "Chofly is a very active Youtuber content creator, currently focused on analysis and advanced strategy for RAID: Shadow Legends.",
+    "picture": "/img/content-creators/chofly-elite/picture.jpg",
+    "links": {
+        "youtube": "ChoflyElite",
+        "discord": "b236zp8",
+        "twitch": "CF_ChoseN",
+        "twitter": "CF_ChoseN"
+    },
+    "youtube": {
+        "id": "ChoflyElite",
+        "playlists": [
+            {
+                "id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "tags": [
+                    "champion-guide"
+                ]
+            },
+            {
+                "id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "id": "PLIB47J_4ZJWqV4TTU8QF0TVF8HpHsuAaA"
+            },
+            {
+                "id": "PLIB47J_4ZJWqDAPKp9Ierkgpb49rVyF-h"
+            },
+            {
+                "id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "id": "PLIB47J_4ZJWq_6y9lh_0f-ARKWr0SEXOV"
+            },
+            {
+                "id": "PLIB47J_4ZJWpeG7i73uWzQsPzMRdXeYjC"
+            },
+            {
+                "id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            }
+        ],
+        "videos": [
+            {
+                "title": "LYDIA NERFED?! | FULL Silver Cost Chart! | RAID Shadow Legends",
+                "published_at": "2020-10-16T22:44:15Z",
+                "id": "QEuPq4DsFqI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "DISCUSSING DATAMINE NEW INFO! | ft. ColdBrew & Skratch | RAID Shadow Legends",
+                "published_at": "2020-10-16T15:17:07Z",
+                "id": "NkwY1qzaht0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "10x DAMAGE DEALERS | In-Game WrapUp | RAID Shadow Legends",
+                "published_at": "2020-10-15T15:08:15Z",
+                "id": "aMXnJ3CZ4LQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ALL Fusion Champs ADDED! | Tier List 4.0! RAID Shadow Legends",
+                "published_at": "2020-10-14T18:29:33Z",
+                "id": "fnT6BBhCHn8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "UMBRAL ENCHANTRESS Guide! | RAID Shadow Legends",
+                "published_at": "2020-10-13T21:55:07Z",
+                "id": "HrTGRqk2Xls",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "umbral-enchantress"
+                }
+            },
+            {
+                "title": "TONS of 2x VOIDS w/ DJ RNG! | RAID Shadow Legends",
+                "published_at": "2020-10-12T19:16:09Z",
+                "id": "EOEEA-KBNew",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "FACTION WARS PLANNER! Track your Lydia Quest! RAID Shadow Legends",
+                "published_at": "2020-10-11T19:31:43Z",
+                "id": "IeuRFu6-Z4E",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "URSUGA WARCALLER Guide! | Top Tier Void Leggo! RAID Shadow Legends",
+                "published_at": "2020-10-10T02:51:07Z",
+                "id": "afWp-PISnbw",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "ursuga-warcaller"
+                }
+            },
+            {
+                "title": "SPEED Set! | BEST In the Game! | Optimal Champs & Mechanics | RAID Shadow Legends",
+                "published_at": "2020-10-09T14:53:47Z",
+                "id": "mrvY1ytQJcw",
+                "playlist_id": "PLIB47J_4ZJWqV4TTU8QF0TVF8HpHsuAaA"
+            },
+            {
+                "title": "Creator Chill #3 | Vermkaar Fusion | LYDIA COMING SOON? | RAID Shadow Legends",
+                "published_at": "2020-10-08T02:27:06Z",
+                "id": "FnVArj3mHW0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "2x VOIDS This Wkend! +General WrapUp! RAID Shadow Legends",
+                "published_at": "2020-10-07T15:52:38Z",
+                "id": "Hg5X9Ur3TJQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Vergumkaar Champ Guide! Good or Trash?! RAID Shadow Legends",
+                "published_at": "2020-10-06T00:56:40Z",
+                "id": "RLkoUuGLk3g",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "vergumkaar"
+                }
+            },
+            {
+                "title": "FUSION is LIVE! | The Meme Came True... Should you go for it? | RAID Shadow Legends",
+                "published_at": "2020-10-05T14:54:09Z",
+                "id": "9ztlBd46G3Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "KNIGHT REV Faction Wars Guide! | Stage 21 TOUGHEST Thing I've Done in RAID!",
+                "published_at": "2020-10-04T20:20:56Z",
+                "id": "aXougVPEQxY",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "22 NEW CHAMPS??! | Who's GOOD, Who's TRASH! | RAID Shadow Legends",
+                "published_at": "2020-10-02T16:08:22Z",
+                "id": "08tE_2xGT0s",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "NEW FUSION MONDAY! Full Kit / Grades / Reaction! RAID Shadow Legends",
+                "published_at": "2020-10-02T15:25:07Z",
+                "id": "4DyEltZGUv8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "PERCEPTION Set! | Optimal Champs and Crafting! | RAID Shadow Legends",
+                "published_at": "2020-10-02T02:45:15Z",
+                "id": "VyrG6xw3tTc",
+                "playlist_id": "PLIB47J_4ZJWqV4TTU8QF0TVF8HpHsuAaA"
+            },
+            {
+                "title": "SACRED ORDER Faction Guide! ALL Champs Graded | Stage 21 Auto 3 Star! RAID Shadow Legends",
+                "published_at": "2020-10-01T04:36:53Z",
+                "id": "oR6yqQiDvOY",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "NEW Type of Dragon Tourney! Good or Bad Idea? | RAID Shadow Legends",
+                "published_at": "2020-09-30T17:19:37Z",
+                "id": "nNLSMeYCUdU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Saito Champ Guide! | DPS King?! | Raid Shadow Legends",
+                "published_at": "2020-09-29T14:58:12Z",
+                "id": "V6D_ZtG4kl4",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "saito"
+                }
+            },
+            {
+                "title": "10x Event TOMORROW! | Serris / Vizier / Rae! | Should you pull? RAID Shadow Legends",
+                "published_at": "2020-09-28T19:16:56Z",
+                "id": "7EIy1URH5PE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "1 Shard 1 Dream! Luckiest Viewer Ever?! | 2x Sacred Highlights! RAID Shadow Legends",
+                "published_at": "2020-09-27T01:03:07Z",
+                "id": "81hpAs2JCsI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "AoE BUFF STRIP Champs! | VITAL Role for ANY Team | RAID Shadow Legends",
+                "published_at": "2020-09-26T18:37:25Z",
+                "id": "HwaZhW44SsI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Why these SPEED offers are so CRAZY | RAID Shadow Legends",
+                "published_at": "2020-09-25T00:56:41Z",
+                "id": "ozKAxXf1Oe4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ORCS Faction Guide! Stage 21 Full Auto 3 Star! Raid Shadow Legends",
+                "published_at": "2020-09-24T23:24:48Z",
+                "id": "v3NeVzO9oB8",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "2x Sacreds THIS Weekend | AND also 10x?! MADNESS",
+                "published_at": "2020-09-23T15:47:52Z",
+                "id": "RO9HW8ZByQA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "BEST Autofarm Method! | Easy Setup! RAID Shadow Legends! UPDATED!",
+                "published_at": "2020-09-23T04:50:56Z",
+                "id": "Lse0xRVTGvM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Creator Chill #2 | Plarium CEO FIRED! | Hot Topics in RAID Shadow Legends!",
+                "published_at": "2020-09-22T04:28:52Z",
+                "id": "aMjBerL8haw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ChoseN's Corner #16 | DARTH MICRO | Will DOOM TOWER bring him back?!",
+                "published_at": "2020-09-21T04:03:35Z",
+                "id": "INI0q1u2MDQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Candraphon Champ Guide! BUFFED in 2.20! Is he worth it now? | RAID Shadow Legends",
+                "published_at": "2020-09-19T05:55:58Z",
+                "id": "S-05dCam7Jg",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "candraphon"
+                }
+            },
+            {
+                "title": "NEW Fragment Leggo! Is he worth it?! | Raid Shadow Legends",
+                "published_at": "2020-09-18T14:17:15Z",
+                "id": "2_ivhXbhexI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "FULL Lydia Discussion! Too OP? Should she be in shards? | Raid Shadow Legends",
+                "published_at": "2020-09-18T00:08:52Z",
+                "id": "Uwc6loVzXik",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "TWO 10x Events WHAT? | NEW FRAGMENT LEGGO COMING?! | Raid Shadow Legends",
+                "published_at": "2020-09-17T15:52:57Z",
+                "id": "tA4N2nYNA7Y",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | LIFESTEAL SET | Mechanics and Optimal Champs!",
+                "published_at": "2020-09-17T04:21:16Z",
+                "id": "nP41rZtMOc8",
+                "playlist_id": "PLIB47J_4ZJWqV4TTU8QF0TVF8HpHsuAaA"
+            },
+            {
+                "title": "RAID Shadow Legends | FACTION WAR LEGENDARY REVEALED! LYDIA DEATHSIREN! FULL Kit and Reaction!",
+                "published_at": "2020-09-16T16:12:00Z",
+                "id": "aWXNjKt-Txg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Patch 2.20 is LIVE! First Reaction & Wrap Up!",
+                "published_at": "2020-09-16T15:52:52Z",
+                "id": "4NSMrvVwUiY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Plarium BRINGS THE HAMMER DOWN on Boosters! ft Manibal!",
+                "published_at": "2020-09-15T21:40:34Z",
+                "id": "FZ6Fd0fMU74",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Saffron Podcast Highlights & Starcraft Showmatch!",
+                "published_at": "2020-09-15T03:52:38Z",
+                "id": "lB8n4_DiOHU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | GLYPH ANALYSIS! | Are SPEED Glyphs less common?!",
+                "published_at": "2020-09-14T18:25:14Z",
+                "id": "vycqiw5h0PY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | THE COLD BREW MEME IS OVER! Shards are HOT!",
+                "published_at": "2020-09-13T03:03:39Z",
+                "id": "Jv2W2M6QxQk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Frozen Banshee | BEST CLAN BOSS RARE!",
+                "published_at": "2020-09-12T01:45:37Z",
+                "id": "HxzZhPp5AGU",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "frozen-banshee"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | ALL Balance Changes! | Patch 2.20 FULL WALKTHROUGH!",
+                "published_at": "2020-09-10T16:41:12Z",
+                "id": "FZy0FTyO8ZQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | How to 3 STAR the LAST STAGE NIGHTMARE!",
+                "published_at": "2020-09-10T05:34:56Z",
+                "id": "4imF59UEPJ0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | UNDEAD | FULL Faction Guide | My FAV Faction!",
+                "published_at": "2020-09-09T19:27:46Z",
+                "id": "32_g0sIjLp4",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID Shadow Legends | NEW CONTENT OFFICIALLY REVEALED! | First Reaction!",
+                "published_at": "2020-09-07T16:10:31Z",
+                "id": "KXjznNJ6qiE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Darth pulls ChoseN's VOIDS! | I GOT MY QUEEN!",
+                "published_at": "2020-09-05T14:33:27Z",
+                "id": "UDI4neglmC0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Breakdown of Plarium Addressing Issues",
+                "published_at": "2020-09-04T16:59:47Z",
+                "id": "qjoBxuKfZEA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | LIVE Spider Account Takeover | From 18 to 20!",
+                "published_at": "2020-09-04T05:12:10Z",
+                "id": "jUl2aVCIdxM",
+                "playlist_id": "PLIB47J_4ZJWqDAPKp9Ierkgpb49rVyF-h"
+            },
+            {
+                "title": "RAID Shadow Legends | 10x TOMORROW! | FULL Breakdown!",
+                "published_at": "2020-09-03T16:48:08Z",
+                "id": "j-QfYNud46o",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | MAX Efficiency Start for New Accounts!",
+                "published_at": "2020-09-02T20:33:44Z",
+                "id": "BWAM8dsE5rA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Arena Mechanics and Styles of Play for SUCESSS in PvP!",
+                "published_at": "2020-08-31T19:40:33Z",
+                "id": "D74fDm6tzE4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Visix Unbowed Guide! | Day 270 FREE Reward! Worth Building or Not?",
+                "published_at": "2020-08-31T04:35:42Z",
+                "id": "gjFtl_7bQts",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+            },
+            {
+                "title": "RAID Shadow Legends | STUN Set Mechanics and Optimal Champs!",
+                "published_at": "2020-08-30T01:39:01Z",
+                "id": "wwXF5yWCgqs",
+                "playlist_id": "PLIB47J_4ZJWqV4TTU8QF0TVF8HpHsuAaA"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN's Tier List 3.0 | Formula Revealed!",
+                "published_at": "2020-08-29T03:16:41Z",
+                "id": "BbguAQTqsVg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | BANNER LORDS | Full Faction Wars Guide!",
+                "published_at": "2020-08-28T00:43:05Z",
+                "id": "JHwfdzIJnpk",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID Shadow Legends | 2x VOID This Weekend! | Full Breakdown",
+                "published_at": "2020-08-26T16:57:00Z",
+                "id": "XLvHG0Z9hJs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | BUFFS & NERFS! | FULL List!",
+                "published_at": "2020-08-25T17:16:09Z",
+                "id": "TQAJbyTL7SQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Creator Chill #1 | Highlights!",
+                "published_at": "2020-08-25T05:25:24Z",
+                "id": "2HuvZIYPBus",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | TORMIN THE COLD GUIDE | Arena Wrecker!",
+                "published_at": "2020-08-24T20:42:11Z",
+                "id": "CnFVyD8ARvQ",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "tormin-the-cold"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | ALL AoE Cleansers! | Build Strong Teams!",
+                "published_at": "2020-08-22T23:02:28Z",
+                "id": "l_jSPYVVaXc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Mountain King Guide! | HIGHEST HP in the game!",
+                "published_at": "2020-08-21T17:18:27Z",
+                "id": "psNdLfpgiss",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "mountain-king"
+                }
+            },
+            {
+                "title": "RAID | ACCOUNT TAKEOVER! | SPIDER FROM LVL 18 TO 20!",
+                "published_at": "2020-08-20T15:30:11Z",
+                "id": "E9cdid-QC74",
+                "playlist_id": "PLIB47J_4ZJWqDAPKp9Ierkgpb49rVyF-h"
+            },
+            {
+                "title": "RAID | DEMONSPAWN | Full Guide! Stage 21 Full Auto!",
+                "published_at": "2020-08-20T15:27:49Z",
+                "id": "875PNnRcqg0",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID | LIZARDMEN | Full Guide | Stage 21 Auto!",
+                "published_at": "2020-08-20T15:27:49Z",
+                "id": "16rCnAiRwe4",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID | HIGH ELVES | Faction Wars Guide | Final Stage Auto",
+                "published_at": "2020-08-20T15:27:49Z",
+                "id": "JEDZ7cJE18w",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID | Dark Elves | Faction Wars Guide | Final Stage Auto",
+                "published_at": "2020-08-20T15:27:49Z",
+                "id": "n_8AFvjH4NY",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID | BARBARIANS | Full Guide! Stage 21 Auto!",
+                "published_at": "2020-08-20T02:27:02Z",
+                "id": "Nf6kPo6yvpE",
+                "playlist_id": "PLIB47J_4ZJWpSk30h6FIPxou3Kh-oqeyg"
+            },
+            {
+                "title": "RAID | Kreela Witch-Arm Guide! Meme or Dream?",
+                "published_at": "2020-08-18T23:10:19Z",
+                "id": "laQrQJjcvUs",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "kreela-witch-arm"
+                }
+            },
+            {
+                "title": "RAID | 10x Event THIS WEEK | Is it worth? | Full Grades!",
+                "published_at": "2020-08-18T10:52:51Z",
+                "id": "342qf-OF4hw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | I WILL NUKE YOUR FACE! | 2x Sacred Highlights!",
+                "published_at": "2020-08-17T23:01:16Z",
+                "id": "uTAhl1VoPZs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | How to OPTIMIZE your Arena Squad! ft. Deadwood Jedi!",
+                "published_at": "2020-08-17T03:23:12Z",
+                "id": "uJZDCS-nB4E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | SPEED / METER BOOSTERS! | Build Successful Teams!",
+                "published_at": "2020-08-16T01:17:19Z",
+                "id": "IyI3ePMKDeg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ChoseN's Corner #14 | ft. Skratch",
+                "published_at": "2020-08-15T18:49:22Z",
+                "id": "A_Z83YGi31E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | KREELA EVENT | FULL Thoughts and Walkthrough!",
+                "published_at": "2020-08-14T20:29:01Z",
+                "id": "INCWKbe4rm4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Drexthar Bloodtwin Guide! | Bazaar Leggo!",
+                "published_at": "2020-08-13T03:16:00Z",
+                "id": "unrmr18-Loo",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "drexthar-bloodtwin"
+                }
+            },
+            {
+                "title": "RAID | 2x SACREDS this Weekend! | Community Update!",
+                "published_at": "2020-08-12T16:24:20Z",
+                "id": "yeWC2S2cMvc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | NEW LEGENDARY FRAGMENT SUMMON! FULL REVEAL + GRADES!",
+                "published_at": "2020-08-11T16:57:33Z",
+                "id": "HyrP6bB41LA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | BAZAAR LEGGO?! | IS IT WORTH IT?",
+                "published_at": "2020-08-10T08:38:08Z",
+                "id": "ob17sMV_zxA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "What do Investors want to know about RAID?!",
+                "published_at": "2020-08-10T03:10:53Z",
+                "id": "DnwUALHL--o",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | DOMINATE Clan Boss! | Rosh / Skull / Doom UNKILLABLE Guide!",
+                "published_at": "2020-08-09T23:14:47Z",
+                "id": "hViG7xhh08k",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 10x THIS WEEKEND! | Is it worth? | New Dungeon Pack",
+                "published_at": "2020-08-06T08:52:54Z",
+                "id": "Wd-Wh8bs0U8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | CAMPFIRE TEASER?! | August 2020 What you need to know!",
+                "published_at": "2020-08-05T20:16:06Z",
+                "id": "nUMEfUbMvjE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Gala Longbraids Guide | Hidden Gem?!",
+                "published_at": "2020-08-05T03:03:45Z",
+                "id": "WteiERJ2ULs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 2x Ancients Highlights! | RAINING LEGGOS! Funny Moments",
+                "published_at": "2020-08-03T03:08:09Z",
+                "id": "6k2y4a2Rm6I",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | TOP 15 CHAMPS PLAT ARENA | ft Manibal!",
+                "published_at": "2020-08-02T03:27:42Z",
+                "id": "btVMeKzYllE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Tainix Hateflower Guide | Worth Maxing?",
+                "published_at": "2020-08-02T00:13:13Z",
+                "id": "Ayje1d9INBk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "tainix-hateflower"
+                }
+            },
+            {
+                "title": "RAID | Top 10 Bad Early Game but S Tier End Game!",
+                "published_at": "2020-07-31T03:09:35Z",
+                "id": "34X5Vxqw2ds",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Dragon Analytics | Full Loot Analysis!",
+                "published_at": "2020-07-30T21:01:49Z",
+                "id": "VhH5OXQW6Nk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 2X ANCIENTS THIS WEEKEND! | HOW TO PREPARE!",
+                "published_at": "2020-07-28T14:14:47Z",
+                "id": "JOXnrdw66HE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | IS RAID CARD ACTUALLY WORTH IT?",
+                "published_at": "2020-07-28T04:07:02Z",
+                "id": "NbqnBidlue8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Champ Guide | Venus | BEST LEGENDARY?!",
+                "published_at": "2020-07-27T22:03:59Z",
+                "id": "2kW4UTGCPio",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "venus"
+                }
+            },
+            {
+                "title": "RAID | Champ Guide | Ghrush the Mangler",
+                "published_at": "2020-07-25T03:11:37Z",
+                "id": "TIwLg8UWTXk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "ghrush-the-mangler"
+                }
+            },
+            {
+                "title": "RAID | 2.10 UPDATE INFO | FRAGMENT SUMMONS | FULL DISCUSSION",
+                "published_at": "2020-07-24T22:38:11Z",
+                "id": "U5m63R5wMsQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 10x Event TOMORROW! | NEW SETS?!",
+                "published_at": "2020-07-23T19:01:54Z",
+                "id": "zni-JrUzDDA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | PATCH 2.10 IS LIVE! FINALLY GOLD BARS / BAZAAR!",
+                "published_at": "2020-07-22T15:17:23Z",
+                "id": "QVmHYVa2Hc4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | FULL GLYPH VALUE DISCUSSION",
+                "published_at": "2020-07-22T04:39:40Z",
+                "id": "coKDqkqTdmU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Champ Guide | Kantra the Cyclone",
+                "published_at": "2020-07-21T01:25:41Z",
+                "id": "ChlX9BJVuNA",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "kantra-the-cyclone"
+                }
+            },
+            {
+                "title": "RAID | MY MISTAKES AS A NEW PLAYER",
+                "published_at": "2020-07-19T00:02:50Z",
+                "id": "R_3EFW4vE1Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | My Boss Team | 3 Key Ultra | 1 Key NM | Auto All Affinity",
+                "published_at": "2020-07-17T03:04:50Z",
+                "id": "azKomHf0DTA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 10X EVENT TOMORROW! IS IT WORTH IT?",
+                "published_at": "2020-07-16T15:43:44Z",
+                "id": "ggLMVN6UkvU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | STATS OF AN AVERAGE MAX ULTRA CHEST!",
+                "published_at": "2020-07-15T15:44:11Z",
+                "id": "pJQpSJEjSVg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Champ Guide | Skartorsis",
+                "published_at": "2020-07-14T01:10:53Z",
+                "id": "fzU0H81Rb5A",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "skartorsis"
+                }
+            },
+            {
+                "title": "RAID | KANTRA OVERVIEW | SKILL  MULTIPLIERS!",
+                "published_at": "2020-07-13T18:20:03Z",
+                "id": "HS7GGqUsgPg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Platinum Usage Rate Analysis! | July 2020",
+                "published_at": "2020-07-13T04:16:33Z",
+                "id": "DfXH4VXvO6U",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 2x VOID HIGHLIGHTS | RAINING LEGGOS!!!",
+                "published_at": "2020-07-12T01:56:49Z",
+                "id": "_TNd7uoDBYs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | The BEST No Leggo Clan Boss Team! | ft DeadwoodJedi!",
+                "published_at": "2020-07-11T04:41:42Z",
+                "id": "iACTco8wVNw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | FUSION ANNOUNCED! | ABILITIES LEAKED! | DEVS RESPOND!",
+                "published_at": "2020-07-10T15:58:36Z",
+                "id": "s-ZEIe4ZCKM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | TOP 10 SETS and Who Should Wear Them!",
+                "published_at": "2020-07-09T04:14:13Z",
+                "id": "gK64ixV2aQ8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 2x Void THIS WEEKEND! | Fusion Soon + How to PREPARE!",
+                "published_at": "2020-07-08T16:07:06Z",
+                "id": "eRf3pcOvCsA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Account Takeover! | Fire Knight 20!",
+                "published_at": "2020-07-08T15:20:59Z",
+                "id": "WOgj6ucCXeM",
+                "playlist_id": "PLIB47J_4ZJWqDAPKp9Ierkgpb49rVyF-h"
+            },
+            {
+                "title": "RAID | Champ Guide | Knight Errant",
+                "published_at": "2020-07-06T22:24:29Z",
+                "id": "OSQEoaW1TTw",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "knight-errant"
+                }
+            },
+            {
+                "title": "ChoseN's Corner | ft JGigs | 3v3 Arena Opinions / Other Games",
+                "published_at": "2020-07-05T14:33:30Z",
+                "id": "Ouz6Obz-2rg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | SERRIS FOR EVERYONE!! | VIEWER PULLS HIGHLIGHT!!",
+                "published_at": "2020-07-05T02:08:01Z",
+                "id": "MbrnjilsMjk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | NEW DRAGON TOURNEY STRUCTURE | WORTH IT FINALLY?",
+                "published_at": "2020-07-03T20:52:33Z",
+                "id": "6UwZH2o5kAs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ChoseN's Corner | ft Manibal | Top Arena Specialist!",
+                "published_at": "2020-07-03T18:01:52Z",
+                "id": "F0F9-U80uOc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | CHAMPIONSHIP | MurderInc vs ColdBrew!",
+                "published_at": "2020-07-02T22:42:15Z",
+                "id": "JeS7LfMWi60",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID | BEST 10X EVER?! | FULL BREAKDOWN",
+                "published_at": "2020-07-02T14:55:54Z",
+                "id": "7SciEnZoaHE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | FINAL4 | ColdBrew vs Skratch!",
+                "published_at": "2020-07-01T19:36:44Z",
+                "id": "ke5cq7gJma8",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID | NEW ACCESSORIES ANNOUNCED! | Reaction & Discussion!",
+                "published_at": "2020-07-01T16:49:02Z",
+                "id": "R92LV8iCA2E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | FINAL4 | MurderInc vs MadCapper!",
+                "published_at": "2020-07-01T01:13:15Z",
+                "id": "WyDa5vJ0s98",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Psylar",
+                "published_at": "2020-06-30T07:34:09Z",
+                "id": "CSDsxzEd0Sk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "psylar"
+                }
+            },
+            {
+                "title": "RAID | MOST EFFICIENT WAY TO MAX A CHAMP!!",
+                "published_at": "2020-06-30T07:32:08Z",
+                "id": "HsYx2kAyixc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "CRAZY Hacks Breaking RAID?! My Reaction!",
+                "published_at": "2020-06-29T03:06:49Z",
+                "id": "7zG3q6JtLeY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | R2 | DarthMicro vs MadCapper!",
+                "published_at": "2020-06-29T00:53:25Z",
+                "id": "BHubDlbWx9E",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID | 2X SACREDS FOR ME AND VIEWERS | LEGENDARIES GALORE!",
+                "published_at": "2020-06-27T23:42:29Z",
+                "id": "Xn74C6NWMV8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | R2 | MurderInc vs BGE!",
+                "published_at": "2020-06-27T20:03:36Z",
+                "id": "YYsDtYBbP4M",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "Pompeii",
+                "published_at": "2020-06-27T02:42:00Z",
+                "id": "dsPhINwVs0M",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | NEW DAILY LOG IN REWARDS IN JULY?! | GRADING NEW CHAMPS!",
+                "published_at": "2020-06-26T20:48:45Z",
+                "id": "GkTW-lQExFk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | R2 | ColdBrew vs Kizzle!",
+                "published_at": "2020-06-26T05:03:11Z",
+                "id": "Bha-GmXhOqo",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID | Trivia Contest | R2 | HellHades vs Skratch!",
+                "published_at": "2020-06-25T21:13:51Z",
+                "id": "z4r1_SEW0B4",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID Drama Again?! | FULL Discussion feat. Cold Brew!",
+                "published_at": "2020-06-24T21:55:12Z",
+                "id": "gVAIdu2GszM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | 2x SACREDS This Weekend! Community Update!",
+                "published_at": "2020-06-24T16:15:29Z",
+                "id": "bwRXL5HUAHA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | R1 | Manibal vs MadCapper!",
+                "published_at": "2020-06-24T02:55:52Z",
+                "id": "UbFcF-oSfI0",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID | Champ Guide | Marked",
+                "published_at": "2020-06-24T01:34:25Z",
+                "id": "y3T--SmKLVc",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "marked"
+                }
+            },
+            {
+                "title": "ChoseN's Corner #11 | Darth Micro | Discussing RAID and EXOS",
+                "published_at": "2020-06-23T05:12:12Z",
+                "id": "RAxjzljcOG0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | Trivia Contest | R1 | Skratch vs Valar!",
+                "published_at": "2020-06-22T23:49:38Z",
+                "id": "BQvR3kGGtDc",
+                "playlist_id": "PLIB47J_4ZJWqXdri3U5JWaC25D1QN9YPq"
+            },
+            {
+                "title": "RAID | Tag Team Arena Is LIVE!! | First Look / How It Works!",
+                "published_at": "2020-06-22T07:37:52Z",
+                "id": "Mi2QiTa2aHc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | ALL Arena Speed Aura Champs! | 3v3 Tag Team Leaders!",
+                "published_at": "2020-06-22T03:18:29Z",
+                "id": "FJAlrrE3oxo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID | How to PROPERLY gear a champion!",
+                "published_at": "2020-06-22T00:37:19Z",
+                "id": "j6XybmrChcw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | CONTENT CREATOR TRIVIA CONTEST! | 2500 GEM GIVEAWAY TONIGHT!",
+                "published_at": "2020-06-20T04:34:11Z",
+                "id": "XmePdXw2yEg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 10 WORST LEGENDARY CHAMPS | HOW I WOULD CHANGE THEM!",
+                "published_at": "2020-06-20T01:55:05Z",
+                "id": "huPTOyRQUvU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 3v3 REWARDS ANNOUNCED | FULL IN GAME BREAKDOWN!",
+                "published_at": "2020-06-18T20:22:24Z",
+                "id": "CQx1aWOum-E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | NEW 10X SUMMON EVENT! | DIFFERENT TYPE OF 10X?",
+                "published_at": "2020-06-18T07:52:06Z",
+                "id": "VWp-FGiEwrc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ALL RARES WORTH 6 STAR!",
+                "published_at": "2020-06-18T02:55:47Z",
+                "id": "WLnBS5y0fyc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ARE THESE DISCOUNTED GEAR OFFERS FINALLY WORTH IT?!",
+                "published_at": "2020-06-17T21:31:06Z",
+                "id": "aIddmv5prQ8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1200+ x2 ANCIENTS! MY BIGGEST PULL YET!",
+                "published_at": "2020-06-17T02:14:54Z",
+                "id": "xnYN2YleCMU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | All Default AoE Champs RANKED!",
+                "published_at": "2020-06-16T20:40:28Z",
+                "id": "XNh90dpn2ds",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champ Guide | Prince Kymar 2.0 UPDATED!",
+                "published_at": "2020-06-15T23:19:33Z",
+                "id": "zbTABZKx6vc",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "prince-kymar"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 375 Boosted Ancients | LIVE Summons!",
+                "published_at": "2020-06-13T18:05:27Z",
+                "id": "oiPs5PthRmI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Lizard Tandem | Skull Lord + Skullsworn | Easy Faction Wars!",
+                "published_at": "2020-06-13T04:23:24Z",
+                "id": "qBLAgD8HzjY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Blitz Blender Arena Strat! | INSANE SPEED!",
+                "published_at": "2020-06-12T03:16:07Z",
+                "id": "XRB4N0sR1Uk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 2x ANCIENTS IS HERE! | FULL BREAKDOWN OFFERS ETC",
+                "published_at": "2020-06-11T15:18:22Z",
+                "id": "k4wwLDUdum8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Affinity Cup Wrap-Up / ACCOUNT GIVEAWAY!",
+                "published_at": "2020-06-09T20:41:40Z",
+                "id": "SGBDSMTqq4A",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Skytouch Shaman",
+                "published_at": "2020-06-08T19:02:30Z",
+                "id": "pVNFIORZ15k",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "shaman"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | CLAN BOSS CALCULATOR | FULL DISCUSSION / WALKTHROUGH!",
+                "published_at": "2020-06-06T16:35:32Z",
+                "id": "UWERuwYJxtk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Plarium Play Navigation Guide | Optimal Settings",
+                "published_at": "2020-06-05T02:58:15Z",
+                "id": "_xpz3WAbPoE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | SUMMONS FOR LUCKIEST VIEWER EVER!",
+                "published_at": "2020-06-05T02:52:00Z",
+                "id": "8_DHKj4cqxI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | How popular is RAID compared to other similar games? | Time Lapse Chart",
+                "published_at": "2020-06-04T23:11:16Z",
+                "id": "aQsQnatZR5Y",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | SKULLCRUSHER EVENT?! | SPECIAL OFFERS | FULL BREAKDOWN!",
+                "published_at": "2020-06-04T17:01:16Z",
+                "id": "H4HC4Q4Y7pk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | KYMAR 10X TOMORROW! | 2.0 RELEASE DATE INFO!",
+                "published_at": "2020-06-03T19:10:34Z",
+                "id": "RLdiAOfsQ1Y",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ONLY RARES | FIRE KNIGHT 20 | No Counterattack | 2 Minutes",
+                "published_at": "2020-06-03T02:47:29Z",
+                "id": "3c6vr6i0MQs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champ Guide | Scyl of the Drakes",
+                "published_at": "2020-06-02T00:27:50Z",
+                "id": "FHk1O6oxfwk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Arena Meta Analysis | Plat May 2020",
+                "published_at": "2020-06-01T20:05:02Z",
+                "id": "V15kNN0kNe8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | THE TOP 15 *NON LEGENDARY* ARENA CHAMPS",
+                "published_at": "2020-05-31T20:35:37Z",
+                "id": "grFNqfq3B6U",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champ Guide | Lord Shazar",
+                "published_at": "2020-05-30T20:48:58Z",
+                "id": "2BOHW7DTYck",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "lord-shazar"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | I'M BAAAACK! + FULL IN-GAME UPDATE (Offers, Events, etc)",
+                "published_at": "2020-05-30T01:16:54Z",
+                "id": "6o92RsdEkyg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 10x SACRED ORDER TOMORROW | FULL DISCUSSION / GENERAL UPDATE",
+                "published_at": "2020-05-28T15:48:37Z",
+                "id": "HrOjnlkz1HU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | NEW PATCH 2.0! | TAG TEAM ARENA + ARENA SHOP!! | FULL BREAKDOWN",
+                "published_at": "2020-05-27T17:48:59Z",
+                "id": "QtH-MwADZcY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | THE TOP 10 UNCOMMONS! | f2p Early Game Friendly!",
+                "published_at": "2020-05-27T01:03:43Z",
+                "id": "tdw9nvrkxg0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | MORE Affinity Cup Summons | Live Reactions! ft HellHades, JGigs, SaffronMan",
+                "published_at": "2020-05-25T18:12:57Z",
+                "id": "ChikbA0cPdA",
+                "playlist_id": "PLIB47J_4ZJWq_6y9lh_0f-ARKWr0SEXOV"
+            },
+            {
+                "title": "RAID Shadow Legends | Channel + Affinity Cup Update!",
+                "published_at": "2020-05-25T16:19:01Z",
+                "id": "R8-ujNeYG1E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | THE BOMB SQUAD | Is it worth building?",
+                "published_at": "2020-05-24T22:09:46Z",
+                "id": "IyDJe0SNN3E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Affinity Cup Week 1 Wrap-Up and Week 2 Plans!",
+                "published_at": "2020-05-23T18:24:48Z",
+                "id": "RCFeazGpMVM",
+                "playlist_id": "PLIB47J_4ZJWq_6y9lh_0f-ARKWr0SEXOV"
+            },
+            {
+                "title": "ChoseN's Corner #10 | Cold Brew",
+                "published_at": "2020-05-22T04:45:15Z",
+                "id": "yh4T2UVYctw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | KNIGHT REV x10 TOMORROW | BATTLE PASS DELAYED?!",
+                "published_at": "2020-05-21T15:22:34Z",
+                "id": "NZwoFaO-skw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | INSANE SUB-MINUTE GOLEM 20 TEAM | FULL BREAKDOWN",
+                "published_at": "2020-05-20T21:54:30Z",
+                "id": "lOYGDtaYeRA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Bellower 2.0 UPDATED!",
+                "published_at": "2020-05-20T02:33:27Z",
+                "id": "3xg_Ct1M620",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "bellower"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Plarium Devs Respond to Community Requests | May 2020",
+                "published_at": "2020-05-18T22:22:02Z",
+                "id": "gHegnaapmoc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | More New Champs LEAKED?! | Live First Reaction",
+                "published_at": "2020-05-18T16:48:33Z",
+                "id": "S39gM_Jf5kY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | TOP 10 LEGENDARY CHAMPS v3.0 | UPDATED 2020",
+                "published_at": "2020-05-18T03:20:40Z",
+                "id": "GLy2bqC5fGc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Tons of 2x VOIDS | Live With Chat + Affinity Cup",
+                "published_at": "2020-05-16T20:59:59Z",
+                "id": "ItHq7Me4b2Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Affinity Cup | Day 1 Report / Progress",
+                "published_at": "2020-05-15T20:17:42Z",
+                "id": "oslGK3WN5Vs",
+                "playlist_id": "PLIB47J_4ZJWq_6y9lh_0f-ARKWr0SEXOV"
+            },
+            {
+                "title": "RAID Shadow Legends | Affinity Cup | ChoseN's Live Summons | ft HellHades",
+                "published_at": "2020-05-15T03:25:15Z",
+                "id": "YmxPNbv61CU",
+                "playlist_id": "PLIB47J_4ZJWq_6y9lh_0f-ARKWr0SEXOV"
+            },
+            {
+                "title": "RAID Shadow Legends | BATTLE PASS CHAMPS LEAK?! | LIVE FIRST REACTION",
+                "published_at": "2020-05-14T01:18:13Z",
+                "id": "ZqaW4NMqaI8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Lordly Legionary",
+                "published_at": "2020-05-13T03:34:07Z",
+                "id": "wccQ8GUZWZ0",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "lordly-legionary"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | I MAXED GURPTUK FUSION | WAS IT STUPID?",
+                "published_at": "2020-05-12T20:17:36Z",
+                "id": "FXvE04S62wg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | FUSION BREAKDOWN WHOA! IS IT WORTH? | +10X DARK ELVES TOMORROW!",
+                "published_at": "2020-05-12T14:05:23Z",
+                "id": "lAdOuPY_PnY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | GODLY All Rare DRAGON Team",
+                "published_at": "2020-05-12T04:28:07Z",
+                "id": "hw9IlT7VecE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | NEW FUSION EVENT TOMORROW! | FULL KIT REVEAL LEGENDARY SUPPORT!",
+                "published_at": "2020-05-11T20:25:30Z",
+                "id": "p_9WifUHS84",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | THE AFFINITY CUP! | CONTENT CREATOR CHALLENGE!",
+                "published_at": "2020-05-11T02:05:04Z",
+                "id": "VVUdoD4oV68",
+                "playlist_id": "PLIB47J_4ZJWq_6y9lh_0f-ARKWr0SEXOV"
+            },
+            {
+                "title": "RAID Shadow Legends | Let's Talk... THIS DRAGON TOURNEY IS WASTED POTENTIAL",
+                "published_at": "2020-05-08T20:09:15Z",
+                "id": "yHGJv09G_V0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ALL RARE DRAG TOURNEY TOMORROW! | TOP 10 RARES TO USE + MY 2 MIN TEAM",
+                "published_at": "2020-05-07T21:05:27Z",
+                "id": "rmO1v0oMzWY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1.15 IS LIVE | NEW 2 FOR 1 OFFERS?!",
+                "published_at": "2020-05-06T19:38:33Z",
+                "id": "0da-5rs5Um8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Trunda Giltmallet",
+                "published_at": "2020-05-06T01:16:20Z",
+                "id": "ZuGzKIU6JXs",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "trunda-giltmallet"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Shaman",
+                "published_at": "2020-05-04T23:50:18Z",
+                "id": "8Wo27oTjlMc",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "shaman"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 10x Tandem Summoning Event! | Is it worth it for you? ~Starting Tomorrow",
+                "published_at": "2020-05-04T00:40:54Z",
+                "id": "whbQiA3DHFQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | COMMUNITY UPDATE | EARLY MAY 2020 | Energy Drama, Battle Pass, Multiplers, etc",
+                "published_at": "2020-05-02T20:25:40Z",
+                "id": "qdz5sTSOUdc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | DMG CALCULATOR! | INCLUDES CHAMP MULTIPLIERS",
+                "published_at": "2020-05-01T20:24:59Z",
+                "id": "6N93rxgGIOE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | GODLY SPIDER 20 TEAM | 11 SECS | 100% | AUTO",
+                "published_at": "2020-04-30T20:50:51Z",
+                "id": "4dyKVYZvXLw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | OFFICIAL 1.15 PATCH NOTES | LIVE FIRST REACTION",
+                "published_at": "2020-04-29T09:08:12Z",
+                "id": "KVNyZmzO3zs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Septimus",
+                "published_at": "2020-04-29T04:47:59Z",
+                "id": "FJXicCyvm24",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "septimus"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Spider Bug | It messes up your turns!",
+                "published_at": "2020-04-28T00:02:22Z",
+                "id": "C6judxWOhXg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 20 X2 SACREDS!! | LIVE WITH CHAT",
+                "published_at": "2020-04-27T00:12:15Z",
+                "id": "NT-thghWSs0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Increase Your Storage | MULEing System",
+                "published_at": "2020-04-25T17:06:26Z",
+                "id": "Le9XMqZByTc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 2x SACREDS TOMORROW! | Everything you need to know",
+                "published_at": "2020-04-23T17:44:52Z",
+                "id": "4T_3Kt6l0qY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | How to AFK (Autoclick) Farm | Will you get banned?",
+                "published_at": "2020-04-23T17:13:23Z",
+                "id": "5JJ1X_nQdkk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1.15 Update | Player Level 100?! | New Gold 4 Rewards",
+                "published_at": "2020-04-22T16:50:10Z",
+                "id": "rP6m3p-zrIk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN's Corner #9 | Kizzle Virus Recovery + Raid Discussion",
+                "published_at": "2020-04-21T23:15:30Z",
+                "id": "4nnSUydRpG8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Advanced Dragon 20 Guide | 45 Second Runs",
+                "published_at": "2020-04-20T22:58:48Z",
+                "id": "EzlDChswcmg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Live Reaction to My First RAID Video Ever",
+                "published_at": "2020-04-19T20:38:17Z",
+                "id": "vlxMV0Cy958",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Crimson Helm",
+                "published_at": "2020-04-18T20:03:10Z",
+                "id": "0cXVx04VUJU",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "crimson-helm"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 10x High Elves | Is it worth?!",
+                "published_at": "2020-04-17T18:41:06Z",
+                "id": "rHeciHzGcD0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Gorgorab",
+                "published_at": "2020-04-16T17:46:34Z",
+                "id": "WcoDxuMsGH0",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "gorgorab"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Update April 15, 2020 | A new type of Summon Rush? Is it worth?",
+                "published_at": "2020-04-15T19:46:11Z",
+                "id": "WsqpLWW5x54",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN Pulls 300+ 2x Ancients! | Live With Chat",
+                "published_at": "2020-04-14T20:28:15Z",
+                "id": "2vq8ssBk5DU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | The Most Money Spent I've Ever Seen!",
+                "published_at": "2020-04-13T21:39:48Z",
+                "id": "fOT-LsrKIT8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Meta Analysis | PLAT ARENA APRIL 2020",
+                "published_at": "2020-04-12T21:32:33Z",
+                "id": "91RfHbnjX8E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | UPDATED TOP 10 NON-VOID RARES",
+                "published_at": "2020-04-11T02:52:49Z",
+                "id": "y6_mPp3_37E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | UPDATED TOP 10 NON-VOID EPICS",
+                "published_at": "2020-04-10T01:45:19Z",
+                "id": "P1-qNdisPwg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Skull Lord Var-Gall",
+                "published_at": "2020-04-09T21:34:48Z",
+                "id": "8eQAzoK17LE",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "skull-lord-var-gall"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | MemeZard Fusion | Is it worth it?!",
+                "published_at": "2020-04-08T06:34:02Z",
+                "id": "rqoZEz8v_8s",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1.14 IS LIVE! | WHEN IS BATTLE PASS 2?!",
+                "published_at": "2020-04-07T15:58:39Z",
+                "id": "oSqm-4kMkwU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Sir Nicholas",
+                "published_at": "2020-04-06T23:57:09Z",
+                "id": "F6AC7LIwWNQ",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "sir-nicholas"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | End Game Account Management | The Daily Grind",
+                "published_at": "2020-04-05T22:57:50Z",
+                "id": "H07G3znoovU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Krisk the Ageless",
+                "published_at": "2020-04-04T19:05:25Z",
+                "id": "V5760ekLS9w",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "krisk-the-ageless"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | SACRED ORDER 10X | 1.14 NEXT WEEK? | COMMUNITY UPDATE",
+                "published_at": "2020-04-03T20:07:10Z",
+                "id": "h5S_fyY6cG4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Gold 4 Rush | Recap & GIVEAWAY!!!",
+                "published_at": "2020-04-03T00:42:02Z",
+                "id": "v-MXVNA35cE",
+                "playlist_id": "PLIB47J_4ZJWpeG7i73uWzQsPzMRdXeYjC"
+            },
+            {
+                "title": "RAID Shadow Legends | Gold 4 Rush! | Final Day | WE DID IT!",
+                "published_at": "2020-04-01T20:35:43Z",
+                "id": "3PXZZ03Hwdc",
+                "playlist_id": "PLIB47J_4ZJWpeG7i73uWzQsPzMRdXeYjC"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN's Application | Plarium Revenue Advisor",
+                "published_at": "2020-04-01T04:33:26Z",
+                "id": "x4_fmYU8jwo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Gold 4 Rush! | Day 2 Recap | Movin' On Up!",
+                "published_at": "2020-03-31T22:12:36Z",
+                "id": "69LYyLA3eDc",
+                "playlist_id": "PLIB47J_4ZJWpeG7i73uWzQsPzMRdXeYjC"
+            },
+            {
+                "title": "RAID Shadow Legends | Gold 4 Rush! | Day 1 Recap and My Thoughts So Far",
+                "published_at": "2020-03-31T00:59:01Z",
+                "id": "v9vkoAw9KO8",
+                "playlist_id": "PLIB47J_4ZJWpeG7i73uWzQsPzMRdXeYjC"
+            },
+            {
+                "title": "RAID Shadow Legends | Plarium Releases Updated 1.14 Document! Boss Counter! Artifact Sorting!!",
+                "published_at": "2020-03-30T21:12:54Z",
+                "id": "NkGxd5tHyM8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | $250 Worth of 2x VOIDS! | Live With Chat",
+                "published_at": "2020-03-29T17:18:09Z",
+                "id": "JQm15x6qSkI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Developers Respond to Common Requests | My Reaction / Explanation",
+                "published_at": "2020-03-27T20:08:07Z",
+                "id": "RnoxtOY6CR0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 2x VOIDS EVENT | HOW TO PREPARE | VIEWER SUMMONS",
+                "published_at": "2020-03-26T20:01:27Z",
+                "id": "mnBEDsL4Zr0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1.14 Discussion | Is Jareg 10x Event Worth It?!",
+                "published_at": "2020-03-25T19:51:27Z",
+                "id": "O1kRsJZAvnI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Advanced Fire Knight Guide | 90 Second Runs",
+                "published_at": "2020-03-24T21:08:24Z",
+                "id": "kecNmvueu-Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Soulbond Bowyer",
+                "published_at": "2020-03-23T22:47:36Z",
+                "id": "T2D2D429D-Y",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "soulbond-bowyer"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 2500 Gem Giveaway! | Channel Origin Story 1 Year Anniversary",
+                "published_at": "2020-03-22T20:11:53Z",
+                "id": "ojGr5xc2AX0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN's Corner #9 | Darth Microtransaction",
+                "published_at": "2020-03-22T01:54:24Z",
+                "id": "VZlOOJjPlAY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Stag Knight",
+                "published_at": "2020-03-20T19:50:28Z",
+                "id": "M5lXyLVlF1M",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "stag-knight"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Valkyrie 10x Event Tomorrow! | Should you try for her? | 2500 Gem Giveaway",
+                "published_at": "2020-03-19T19:45:22Z",
+                "id": "5rB40qaRvCg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | How To Auto Spider 20 | No HP Burn / Mechanics Explained",
+                "published_at": "2020-03-18T18:58:49Z",
+                "id": "LbhDjak5x40",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Patch 1.14 Balance Changes | Ma'Shalled God Tier Now?!",
+                "published_at": "2020-03-16T18:53:03Z",
+                "id": "jEGSAj0R3zU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Cillian The Lucky",
+                "published_at": "2020-03-14T19:48:04Z",
+                "id": "Qo7Ja3XxaFM",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "cillian-the-lucky"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Cillian The Lucky | Should you fuse him?",
+                "published_at": "2020-03-13T05:36:37Z",
+                "id": "be4g6YRIHW8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN's Full Tier List Release",
+                "published_at": "2020-03-12T18:24:01Z",
+                "id": "M_jBaiBZg04",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | PATCH 1.13.5 GOES LIVE | New Unannounced Legendary?!",
+                "published_at": "2020-03-11T16:30:55Z",
+                "id": "HunPhgL9sww",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | INSANE Campaign Farmer | No Masteries | Easy to Gear",
+                "published_at": "2020-03-10T19:29:52Z",
+                "id": "Y8gZ4UEaN0E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Wurlim Frostking",
+                "published_at": "2020-03-09T19:41:30Z",
+                "id": "cc_nLwol93g",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "wurlim-frostking"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Leveling New Champs | Fast by Targeting XP | End Game Strat",
+                "published_at": "2020-03-07T20:49:47Z",
+                "id": "1RZAUGYU7As",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | INSTANTLY Find Out What You've Spent!",
+                "published_at": "2020-03-07T18:23:49Z",
+                "id": "J6YyNrVCT-Y",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | PATCH 1.13.5 UPDATE | Dark Elhain, Login Rewards, New Sets",
+                "published_at": "2020-03-06T19:05:26Z",
+                "id": "Mq8bw0g3UZA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Are THE BEARS Worth Maxing?",
+                "published_at": "2020-03-05T21:29:29Z",
+                "id": "LeAhXs-ib_o",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | PULLING 175 ANCIENTS | LIVE WITH CHAT 2X CHANCE",
+                "published_at": "2020-03-04T21:25:50Z",
+                "id": "YtG_06g7tfY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | New Daily Rewards and Free Leggo + Epics! | Full Review of Abilities",
+                "published_at": "2020-03-03T19:38:51Z",
+                "id": "PI5nOeQXhZs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ALL Sets Ranked Best to Worst",
+                "published_at": "2020-03-01T21:53:33Z",
+                "id": "u6AsmOiLfCc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Sepulcher Sentinel",
+                "published_at": "2020-03-01T01:04:06Z",
+                "id": "qajX25517XE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Rotos The Lost Groom",
+                "published_at": "2020-02-28T02:32:33Z",
+                "id": "qgW73PWFGnE",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "rotos-the-lost-groom"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Spotlight | Siphi The Lost Bride",
+                "published_at": "2020-02-26T06:01:22Z",
+                "id": "9d7GbRgL9zc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Siphi Summoning Event Incoming! | Live Discussion With Chat",
+                "published_at": "2020-02-26T01:46:56Z",
+                "id": "6qhF61OHOtk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | PLATINUM ARENA | Usage Rate Analysis | FEB 2020",
+                "published_at": "2020-02-24T01:06:47Z",
+                "id": "_9QVpBxQ3EM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | DWARVES Faction War Grades",
+                "published_at": "2020-02-22T21:39:20Z",
+                "id": "TQ26m4OSpN8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Should you try for Minaya / Khoronar? | How good are they?",
+                "published_at": "2020-02-21T23:46:22Z",
+                "id": "HyK8i2Yg6UY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Fusion Extended?! | x10 Summon Event Incoming?",
+                "published_at": "2020-02-20T23:04:07Z",
+                "id": "cDh0bSfg0NU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ChoseN's Corner #7 | Kizzle Returns?!",
+                "published_at": "2020-02-19T06:06:43Z",
+                "id": "M5wSLQYLOSI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN Pulls 20 x2 SACREDS! Live w/ Chat",
+                "published_at": "2020-02-17T20:06:10Z",
+                "id": "5FTAcnzpnxM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Valla",
+                "published_at": "2020-02-17T02:37:34Z",
+                "id": "gogjudtwDak",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "valla"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | TALKING CURRENT ISSUES | Feat. StewGaming",
+                "published_at": "2020-02-16T22:08:19Z",
+                "id": "7fFOXfxHL9Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | IS ROTOS FUSION WORTH? Discussing Bans, Events, Tourneys",
+                "published_at": "2020-02-14T18:19:29Z",
+                "id": "sgXtOLtTuvQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ALL 16 NEW CHAMPS LIVE FIRST REACTION / GRADES",
+                "published_at": "2020-02-14T01:34:49Z",
+                "id": "LRKG9pRWs94",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1.13 DISCUSSION AND RECAP | BATTLE PASS, AVATARS, XP CHANGES",
+                "published_at": "2020-02-13T05:31:30Z",
+                "id": "lAwIWxeFmZk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ALL 1.13 NEW / REBLANCED CHAMPS | GRADES / FIRST IMPRESSION",
+                "published_at": "2020-02-13T03:13:16Z",
+                "id": "9CWYD-ECjv0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update + Thoughts on 1.13.lol | Wrong Priorities",
+                "published_at": "2020-02-10T23:41:52Z",
+                "id": "cVYJim5uNM0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Hakkhorn Smashlord",
+                "published_at": "2020-02-09T22:50:00Z",
+                "id": "JnclWCUFrnk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN Crunches Martyr And Goes f2p",
+                "published_at": "2020-02-08T22:37:33Z",
+                "id": "q15GEShcY-8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | My Free Martyr Story / Explanation",
+                "published_at": "2020-02-08T00:09:45Z",
+                "id": "LKWuGb08dio",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | COMMUNITY UPROAR | Cartman Given Draco cuz of rage?!",
+                "published_at": "2020-02-07T16:42:18Z",
+                "id": "ET3fxeGtO78",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Lugan The Steadfast",
+                "published_at": "2020-02-06T01:53:08Z",
+                "id": "NrfwdB4-8qY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "lugan-the-steadfast"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Is 1.13 TOMORROW?! | Why I think maybe + General Thoughts",
+                "published_at": "2020-02-05T03:30:51Z",
+                "id": "q_Zt6jKtE9c",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Are Masteries Worth 800 Gems?",
+                "published_at": "2020-02-04T04:46:11Z",
+                "id": "y4eQPVHaXWM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Rae",
+                "published_at": "2020-02-03T04:18:16Z",
+                "id": "z4jmvkbfoOA",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "rae"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Update Feb 2, 2020 | BIGGEST WHALE WAR YET",
+                "published_at": "2020-02-02T20:29:04Z",
+                "id": "qtunRYDt8T4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Building An End-Game META Arena Team | ft. HellHades",
+                "published_at": "2020-02-02T02:23:02Z",
+                "id": "QbGY4vqUAmA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Warmaiden",
+                "published_at": "2020-02-01T04:37:42Z",
+                "id": "IBX4WhOBnL8",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "warmaiden"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 29, 2020 | x2 Ancients! | Golem Tourney Flop?",
+                "published_at": "2020-01-29T23:14:31Z",
+                "id": "DvncPgTl_fc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Devs Respond To Popular Requests! | Unlimited Boss HP?!",
+                "published_at": "2020-01-27T17:31:58Z",
+                "id": "8G3yA-iRy4s",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | FULL Legendary Tier List Update / Discussion!",
+                "published_at": "2020-01-25T23:30:48Z",
+                "id": "3hKSPnlckT8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Top 10 Non Legendary Healers!",
+                "published_at": "2020-01-24T03:55:17Z",
+                "id": "DIvQ_zKf-9o",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 1.13 UPDATE | Whale Wars #4 | 5 Legends being buffed + Much more!",
+                "published_at": "2020-01-24T00:54:38Z",
+                "id": "oDg5o_b1D8c",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 22, 2020 | Plarium Embracing Content Creators? | Selling Glyphs?!",
+                "published_at": "2020-01-23T00:05:24Z",
+                "id": "4mzQ72y2-30",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Skullcrusher",
+                "published_at": "2020-01-22T03:43:29Z",
+                "id": "1vwRtOiIc4Y",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "skullcrusher"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Best f2p / Beginner Arena Team!",
+                "published_at": "2020-01-20T23:57:53Z",
+                "id": "DHzlFv28F9o",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Shamrock Buffs Leaked?! ChoseN Decodes Hidden Message",
+                "published_at": "2020-01-18T13:45:39Z",
+                "id": "dj_vCUI5xyY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 17, 2020 | Lyssandra Whale Wars?!",
+                "published_at": "2020-01-17T23:49:16Z",
+                "id": "WWzt8RQ-ZFY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 16, 2020 | Dutchess | Artifact Sorting?!",
+                "published_at": "2020-01-16T22:39:29Z",
+                "id": "g2LbSVANdt8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 2020 Updated Beginner's Guide",
+                "published_at": "2020-01-16T04:00:57Z",
+                "id": "5pytDd6P8UU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Whisper",
+                "published_at": "2020-01-15T22:44:30Z",
+                "id": "eEGHaIHjG6o",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "whisper"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | RIP Unkillable Comps?! | Monthly Gem Offer Is Back!",
+                "published_at": "2020-01-14T23:46:16Z",
+                "id": "1fD_uWrpBX8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Alure",
+                "published_at": "2020-01-12T23:38:33Z",
+                "id": "muQPuyN1qek",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "alure"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | VOIDS x2 IS LIVE!! | Full breakdown | My Top 5 Voids Each Rarity",
+                "published_at": "2020-01-11T01:12:59Z",
+                "id": "pV0ybIZElLQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Discussion | What is the optimal DEF to have on a Champion?",
+                "published_at": "2020-01-10T01:17:29Z",
+                "id": "BQ3GV-EoEB8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 9, 2020 | x2 VOIDS!!! | Ice Golem Tourney",
+                "published_at": "2020-01-09T16:21:24Z",
+                "id": "3FS75obluEY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 8, 2020 | Where is Plarium?! + Finally good Shop offers",
+                "published_at": "2020-01-09T00:44:17Z",
+                "id": "ok9yU780-xs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Dragon 20 Loot Analytics",
+                "published_at": "2020-01-07T23:59:42Z",
+                "id": "Iy3ZZZT7YsE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "It's Time For Alberto Riveron To Be Fired",
+                "published_at": "2020-01-05T04:43:21Z",
+                "id": "srW3HKMA7Q0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 5 second Dungeon 20's | Non Leg Unkillable | feat. DarthMicro!",
+                "published_at": "2020-01-04T17:52:24Z",
+                "id": "NIY8IQfibnY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Jan 3, 2020 | Whale Wars 3.0!",
+                "published_at": "2020-01-03T23:46:46Z",
+                "id": "71JCf7c41to",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Seer",
+                "published_at": "2020-01-03T02:27:14Z",
+                "id": "vSO8mjXf8cs",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "seer"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 2019 Year in Review | Recorded Live with Chat",
+                "published_at": "2020-01-01T22:51:12Z",
+                "id": "S0Yhd6HPnIc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 29, 2019 | Daily Log-In Rewards (Kinda)",
+                "published_at": "2019-12-29T17:48:59Z",
+                "id": "WccVnUSftXE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Secret Boss Index?! How you can get to it",
+                "published_at": "2019-12-27T04:27:42Z",
+                "id": "D4TWp9G3fKE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Miscreated Monster",
+                "published_at": "2019-12-27T04:20:02Z",
+                "id": "7jx8VXU9aDI",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "miscreated-monster"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Christmas Update | Plarium Sends Gifts + General Discussion",
+                "published_at": "2019-12-25T16:20:22Z",
+                "id": "gHuDsRSV4fQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Boosted Ancients!!!!! WhaleWars 2.0 Concludes",
+                "published_at": "2019-12-23T17:17:50Z",
+                "id": "AMIDxbtRAf0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Ultimate Galek",
+                "published_at": "2019-12-21T20:23:14Z",
+                "id": "8V8wCpi0rRM",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "ultimate-galek"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Martyr WhaleWars v2.0!",
+                "published_at": "2019-12-21T00:48:03Z",
+                "id": "sHD36SYUvwA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 19, 2019 | Balance Changes?!",
+                "published_at": "2019-12-20T00:48:53Z",
+                "id": "t3iXcQ_9ru4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 18, 2019 | Tormin Changes Incoming? General Rundown",
+                "published_at": "2019-12-18T23:49:18Z",
+                "id": "QOEQY5PLqMs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 16, 2019 | Amazon Prime + Ultimate Galek?!",
+                "published_at": "2019-12-17T00:53:27Z",
+                "id": "nHa9FqfhQeQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | MAXED Tormin the Cold Testing / Building",
+                "published_at": "2019-12-14T20:16:12Z",
+                "id": "k80ItqDjzpM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Holiday Fusion!!? | Grading New Legendary / General Discussion",
+                "published_at": "2019-12-14T00:07:49Z",
+                "id": "17b4iCwzSdw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Rowan",
+                "published_at": "2019-12-13T06:44:36Z",
+                "id": "vZjk94cuFc0",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "rowan"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 12, 2019 | Christmas Fusion Expectations + General Discussion",
+                "published_at": "2019-12-13T00:10:06Z",
+                "id": "ObNGKtR9sVY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Valkyrie",
+                "published_at": "2019-12-11T02:32:48Z",
+                "id": "sWw0Bs5N9B4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 09, 2019 | Tourneys / Offers Getting Worse? Undead Summoning?!",
+                "published_at": "2019-12-09T23:37:15Z",
+                "id": "nyFD4MGsWpI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | My Nightmare Farmer | General Nightmare Discussion",
+                "published_at": "2019-12-09T02:53:53Z",
+                "id": "qlORcbceYUc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | The Most Insane Summoning Session Ever!",
+                "published_at": "2019-12-07T04:11:21Z",
+                "id": "Hq8ww1W1iiI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | End NOV / Beg DEC",
+                "published_at": "2019-12-05T01:02:22Z",
+                "id": "bhY_NbpBZ1Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Dec 02, 2019 | Hegemon Update / Crazy Offers Lately",
+                "published_at": "2019-12-02T23:32:39Z",
+                "id": "q5rVEhXw6r8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | ChoseN three stars entire Nightmare Campaign in 1 sitting",
+                "published_at": "2019-12-01T02:49:35Z",
+                "id": "0cAA0ZZZjag",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Venus / Cupidus Event | Is it worth it?",
+                "published_at": "2019-11-30T00:57:31Z",
+                "id": "P8HMJKdC_o8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Nov 27, 2019 | Crazy Whale Event??!",
+                "published_at": "2019-11-28T00:29:33Z",
+                "id": "1xpKWF73WJI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Nightmare Campaign Discussion / Analysis",
+                "published_at": "2019-11-27T02:56:40Z",
+                "id": "ageh7PkEO6s",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | PATCH 1.12 IS LIVE! Everything you need to know / Live first reaction",
+                "published_at": "2019-11-25T18:31:56Z",
+                "id": "KFXHdAgIorM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Top 25 Non-Legendary Champs for Campaign Progression / Duo 3 Stars",
+                "published_at": "2019-11-24T23:18:59Z",
+                "id": "95UwsKa43V8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | FULL Patch 1.12 Breakdown / Analysis",
+                "published_at": "2019-11-23T20:02:49Z",
+                "id": "8twtcDCyG44",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Patch 1.12 Discussion",
+                "published_at": "2019-11-23T03:00:00Z",
+                "id": "6u_A9i9_Bhw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Nov 20, 2019 | Summon Rush, should you pull or save?",
+                "published_at": "2019-11-21T02:09:40Z",
+                "id": "-q_FHxo2D3I",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Coldheart 2.0 UPDATED",
+                "published_at": "2019-11-20T06:17:29Z",
+                "id": "esiEwBnIC-M",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "coldheart"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | My Tier List Explained & How I Rank Champions",
+                "published_at": "2019-11-19T04:05:11Z",
+                "id": "b_pVs6PV5Bs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Rhazin Scarhide",
+                "published_at": "2019-11-16T21:38:22Z",
+                "id": "QFnGcbsoDVk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "rhazin-scarhide"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 14 New Champs | Live First Reaction / Grades",
+                "published_at": "2019-11-16T01:09:42Z",
+                "id": "fqQvi7XGcdM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Brakus Fusion | Is it worth the grind? + Fusions Discussion",
+                "published_at": "2019-11-16T00:02:21Z",
+                "id": "MEOep6XmQpg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Nov 14, 2019 | x2 Voids!! My take new champs being released",
+                "published_at": "2019-11-15T01:03:10Z",
+                "id": "uMzez8eHhNQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Arbiter",
+                "published_at": "2019-11-14T01:44:41Z",
+                "id": "xFu1AJ92cjA",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "arbiter"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Update Nov 12, 2019 | My thoughts on Summon Rush / Should you participate?",
+                "published_at": "2019-11-13T00:09:26Z",
+                "id": "H3Rpz2BYzFw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Nov 11, 2019 | Vote for Plarium? My thoughts on current events",
+                "published_at": "2019-11-11T22:06:28Z",
+                "id": "RKChkHOZ0T0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Account Priorities | What do to and when to do it",
+                "published_at": "2019-11-11T00:27:57Z",
+                "id": "QrI-D6h8DDI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Crypt-King Graal",
+                "published_at": "2019-11-08T14:01:41Z",
+                "id": "cMhsFP6dSqg",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "crypt-king-graal"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | RAID's 2 Year Birthday! How I got into RAID and how it's evolved.",
+                "published_at": "2019-11-07T00:43:19Z",
+                "id": "Vwoc3DjVXS8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Nov 5, 2019 | Dragon Tournament + Misc",
+                "published_at": "2019-11-06T00:24:06Z",
+                "id": "_Ab7QpDr6Yk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Fear and True Fear Full Explanation + Live Example Walkthrough",
+                "published_at": "2019-11-05T05:23:37Z",
+                "id": "OxSJbPfRhWc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | The Arena Meta | Explanation & Tips",
+                "published_at": "2019-11-04T04:41:33Z",
+                "id": "Uf2Pz3DbhWk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Madame Serris",
+                "published_at": "2019-11-03T19:56:54Z",
+                "id": "9s8Qb3x9Hqk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "madame-serris"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Harvest Jack",
+                "published_at": "2019-11-02T20:18:00Z",
+                "id": "KdczVsmLPWY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "harvest-jack"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Update Nov 2, 2019 | Is Madame Serris worth it?! | I go for her live",
+                "published_at": "2019-11-02T03:52:40Z",
+                "id": "4j7nXngJUnc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | TONS of x2 Ancient Shards! | Event Live Reaction Summons",
+                "published_at": "2019-11-02T00:40:17Z",
+                "id": "f1-aBl_7MAU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Spending Tiers Discussion | What makes you a whale? w/ DarthMicro!",
+                "published_at": "2019-10-31T21:53:37Z",
+                "id": "ahqVrvocmT4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Oct 30, 2019 | Double Chance Ancients!!! + Summon Management",
+                "published_at": "2019-10-30T22:13:50Z",
+                "id": "JEFr-4uXnI4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Oct 28, 2019 | New champs live first reaction! + Misc discussion",
+                "published_at": "2019-10-28T18:20:45Z",
+                "id": "vpD41TQs6hY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Update Oct 25, 2019 | New Legendary Fusion! Is it worth it?",
+                "published_at": "2019-10-25T22:20:26Z",
+                "id": "xseh5xkO3R4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Jareg",
+                "published_at": "2019-10-25T01:35:46Z",
+                "id": "UNOAeH583MY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "jareg"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Oct 23, 2019 | Skullcrown Event",
+                "published_at": "2019-10-24T00:22:08Z",
+                "id": "e_FimFn_510",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Banner Lords Faction Wars Grades",
+                "published_at": "2019-10-22T00:13:31Z",
+                "id": "0JKfPLEwHac",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community | Oct 18, 2019 | Faction Wars Changes? | People Upset About Event",
+                "published_at": "2019-10-18T23:52:27Z",
+                "id": "X-pBJhJRjFU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Spreadsheet Resource Spider 20 Droprates Examined",
+                "published_at": "2019-10-16T22:44:43Z",
+                "id": "YKI7Eg1MdYE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Reliquary Tender",
+                "published_at": "2019-10-16T00:45:02Z",
+                "id": "WfUS1ucntpI",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "reliquary-tender"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Basics Guide to Counter-Attack",
+                "published_at": "2019-10-14T19:29:56Z",
+                "id": "Ql2VQHBmFxM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Oct 13, 2019 | Alika Fusion, Tournament and Event",
+                "published_at": "2019-10-13T21:31:11Z",
+                "id": "RiGoTXrvznI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | 16 New Champions | Live First Reaction / Review",
+                "published_at": "2019-10-11T00:35:46Z",
+                "id": "7n03uUbDFCI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Oct 09, 2019 | Devs Comments / Events / Offers",
+                "published_at": "2019-10-10T00:39:13Z",
+                "id": "f0vXdr9R_No",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Zavia",
+                "published_at": "2019-10-08T00:17:04Z",
+                "id": "Na-ZNH1avAY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "zavia"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | $250 Summon Rush!",
+                "published_at": "2019-10-06T20:25:05Z",
+                "id": "xBdixorHwoQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Top 10 Legendary Champs | Version 2.0",
+                "published_at": "2019-10-05T21:20:44Z",
+                "id": "6OJC9rSqtJ4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Oct 04, 2019 | x2 Sacreds, Maulie ending, Dragon Tournament",
+                "published_at": "2019-10-04T23:57:07Z",
+                "id": "MgOgjmYL028",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Jewelry Stats Guide",
+                "published_at": "2019-10-04T02:10:39Z",
+                "id": "xaHl0yAW6_g",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Skullcrown",
+                "published_at": "2019-10-03T01:08:46Z",
+                "id": "TWjObJRQpsg",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "skullcrown"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Advanced Artifact Management Guide",
+                "published_at": "2019-10-02T01:54:12Z",
+                "id": "PPuDLAPeV_w",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | $100 Worth of x2 Void Shards!",
+                "published_at": "2019-09-30T23:49:17Z",
+                "id": "HamyVCk3Fo8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Top 15 Champs to Avoid in Arena",
+                "published_at": "2019-09-28T18:18:59Z",
+                "id": "VjaKI9rvnLY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Pain Keeper",
+                "published_at": "2019-09-27T21:22:18Z",
+                "id": "TzOckCSPe_s",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "pain-keeper"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update Sep 26, 2019 | PC Client! Events / Tournaments",
+                "published_at": "2019-09-26T23:08:38Z",
+                "id": "BrH6dvii3rA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Royal Guard",
+                "published_at": "2019-09-25T00:52:50Z",
+                "id": "XpyB4_1LKnY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "royal-guard"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | $100 Worth of Ancient Shards",
+                "published_at": "2019-09-24T00:15:59Z",
+                "id": "mC30jpaBm60",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Top 15 Non-Legendary Campaign XP Farmers",
+                "published_at": "2019-09-22T20:41:41Z",
+                "id": "Xc_gM4G4sIE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | New Legendary Fusion + Events / Tournaments | Maulie Tankard",
+                "published_at": "2019-09-21T00:24:21Z",
+                "id": "XSM6OMDCuLM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Sept 19, 2019 | Legendary Fusion + Balance Changes",
+                "published_at": "2019-09-20T00:34:32Z",
+                "id": "7C40KTz0xjo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Dungeon Guide | Ice Golem's Peak",
+                "published_at": "2019-09-18T00:52:11Z",
+                "id": "OZg0f0uxmcE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Martyr",
+                "published_at": "2019-09-17T01:16:05Z",
+                "id": "-gmJMpuZOnE",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "martyr"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | On-Account Coaching #1",
+                "published_at": "2019-09-14T12:15:02Z",
+                "id": "dKM_p-zOiOk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Sept 13, 2019 | Event, Tournament, Downtime, etc",
+                "published_at": "2019-09-14T02:05:48Z",
+                "id": "7YGylKKl3cg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN Confidential #1 | Do I have a Plarium contract? Why so many gems?",
+                "published_at": "2019-09-11T00:42:33Z",
+                "id": "rMoqAshaZrI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Doompriest",
+                "published_at": "2019-09-10T01:19:30Z",
+                "id": "3GwzNo1LcxI",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "doompriest"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | $100+ Live x2 Void Pulls",
+                "published_at": "2019-09-07T17:27:51Z",
+                "id": "2zSPUXuf1AU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | September 4th, 2019 | New Dwarves + x2 Voids",
+                "published_at": "2019-09-06T23:19:22Z",
+                "id": "X5CHwhokHsw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Faction Wars Basics Guide",
+                "published_at": "2019-09-06T00:08:22Z",
+                "id": "4xl9q_-K3Rw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Elenaril",
+                "published_at": "2019-09-05T01:13:31Z",
+                "id": "IzYGn7M6U6o",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "elenaril"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | FACTION WARS!!! + Quality of Life Changes and Glyphs!",
+                "published_at": "2019-09-04T00:42:03Z",
+                "id": "UR5wksvIKfc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Dark Athel + Golem Tourney Discussion",
+                "published_at": "2019-09-02T22:03:37Z",
+                "id": "CyC2x5Oa8Fc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Top 20 Non-Legendary Clan Boss Champs",
+                "published_at": "2019-09-01T21:01:23Z",
+                "id": "lN9IFuyFngo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Peydma",
+                "published_at": "2019-08-31T01:39:57Z",
+                "id": "1V2RvyYW3aE",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "peydma"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Aug 29, 2019 | Fire Knight Tourney + Event",
+                "published_at": "2019-08-29T23:52:07Z",
+                "id": "c-UObxj7VIw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | Pulling Blue Shards Until Legendary",
+                "published_at": "2019-08-29T02:20:26Z",
+                "id": "OS8HDNQnEwg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Sikara Fusion + New Tournaments | New Champions Graded",
+                "published_at": "2019-08-28T00:27:53Z",
+                "id": "GZMI0Owu2Fs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Campaign Guide / Discussion | ft. Kizzle",
+                "published_at": "2019-08-27T00:51:00Z",
+                "id": "3BjaudFn_gY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Zargala",
+                "published_at": "2019-08-24T17:11:54Z",
+                "id": "b-w779Bhjtk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "zargala"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | NEW CHAMPS | All Individually Graded | Veil Buff Champs",
+                "published_at": "2019-08-24T01:37:08Z",
+                "id": "5IF79eiOutQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update Aug 23, 2019 | New Event / x2 Chance Summons / Offers",
+                "published_at": "2019-08-23T23:45:47Z",
+                "id": "w8s449Yna5o",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Permanent Fusions Discussion feat. Darth Micro!",
+                "published_at": "2019-08-23T01:32:35Z",
+                "id": "d5fNQABmJY4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Initial Testing of Excruciator + Veil",
+                "published_at": "2019-08-22T01:14:45Z",
+                "id": "n_CkhWcMfuo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | How To Prepare For Faction Wars",
+                "published_at": "2019-08-21T00:43:46Z",
+                "id": "1WBxdfytTd8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Dracomorph",
+                "published_at": "2019-08-20T02:35:24Z",
+                "id": "m411VDbUCtI",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "dracomorph"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Current Clan Boss System Needs To Be Reworked",
+                "published_at": "2019-08-18T19:11:59Z",
+                "id": "xtPEhn46Cvo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Great Hall Guide",
+                "published_at": "2019-08-17T00:47:17Z",
+                "id": "DcmJREBvHtM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Selling Champs Discussion | Is it bad for the game?",
+                "published_at": "2019-08-15T22:51:05Z",
+                "id": "fx--C5em-3c",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | High Khatun",
+                "published_at": "2019-08-15T01:41:06Z",
+                "id": "4FAlhHWSUdQ",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "high-khatun"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update Aug 13, 2019 | Developer Info on Roadmap!",
+                "published_at": "2019-08-14T00:18:13Z",
+                "id": "QC9xhKISM70",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Aug 12, 2019 | New Champ / New Event / New Buff",
+                "published_at": "2019-08-13T00:34:44Z",
+                "id": "_pxjkdfdhmk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Twitch Sub / Patreon Appreciation Stream #1 | Trivia Contest | $100 In Prizes",
+                "published_at": "2019-08-12T03:05:09Z",
+                "id": "KUC3KnOnOm8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Aug 09, 2019 | Quick Balancing / Secret Champs?!",
+                "published_at": "2019-08-10T01:42:39Z",
+                "id": "UVg_m17udqY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Patch 1.10 Released!  Balancing Champs / Gameplay Changes",
+                "published_at": "2019-08-09T01:12:04Z",
+                "id": "SBaDi3TFc8M",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Dwarves Released! | Live First Reaction / Grades",
+                "published_at": "2019-08-08T23:50:58Z",
+                "id": "UYqeD-c7jy8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Tayrel",
+                "published_at": "2019-08-08T02:19:44Z",
+                "id": "QOXclBZc2nw",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "tayrel"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Ignatius",
+                "published_at": "2019-08-07T01:07:05Z",
+                "id": "NPsYgNXNoX4",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "ignatius"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | Aug 08, 2019 | Ice Golem Event",
+                "published_at": "2019-08-06T00:19:22Z",
+                "id": "Rm_NZh7c3ZE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Offer Calculator For In-Game Purchases",
+                "published_at": "2019-08-04T19:37:26Z",
+                "id": "4H1wKyh2zYE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Discussion | Yaga the Insatiable",
+                "published_at": "2019-08-03T01:16:16Z",
+                "id": "i5vhl0v7ds0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Bad-el-Kazar",
+                "published_at": "2019-08-02T00:54:39Z",
+                "id": "5DMM3pA4xIY",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "bad-el-kazar"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Stream Highlight | July 30, 2019 | 100+ Shards feat. Darth Micro",
+                "published_at": "2019-08-01T01:58:26Z",
+                "id": "vf_47B1ferg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | TONS of New Content Teased | Developer \"Roadmap\"",
+                "published_at": "2019-07-30T23:09:44Z",
+                "id": "hW2W6N5HnWE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Sinesha",
+                "published_at": "2019-07-29T02:07:41Z",
+                "id": "_OAdC3mAWLE",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "sinesha"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | 12 New Champions | July 26, 2019 | My Thoughts / Grades",
+                "published_at": "2019-07-26T21:21:54Z",
+                "id": "9nx1i63uK8s",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | July 26, 2019 | New Champs / Summoning Tournament",
+                "published_at": "2019-07-26T19:52:01Z",
+                "id": "5jIXs9PjglI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Ranking All Dungeons - Hardest to Easiest",
+                "published_at": "2019-07-25T21:59:24Z",
+                "id": "FLMYoRCk7i8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Dungeon Guide | Fire Knight's Castle",
+                "published_at": "2019-07-24T18:16:44Z",
+                "id": "N1OZP6Gh6LI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Roshcard the Tower",
+                "published_at": "2019-07-23T19:53:19Z",
+                "id": "7ejpcdjxOfs",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "roshcard-the-tower"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | New Epic Fusion | Dwarves Teaser",
+                "published_at": "2019-07-22T21:25:46Z",
+                "id": "ZhnsIrhIpes",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Coldheart",
+                "published_at": "2019-07-21T21:06:46Z",
+                "id": "eBpNHds1RTg",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "coldheart"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Rare Rankings | Complete Tier List",
+                "published_at": "2019-07-20T00:19:38Z",
+                "id": "NpCstcEW0Jg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Community Update | July 18, 2019 | Permanent Legendary Fusion?!",
+                "published_at": "2019-07-19T00:50:34Z",
+                "id": "pYVaKcAdYkU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Bogwalker",
+                "published_at": "2019-07-18T02:01:01Z",
+                "id": "fdCHWZiV_5M",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "bogwalker"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Dungeon Guide | Force Keep",
+                "published_at": "2019-07-17T00:17:52Z",
+                "id": "QkEZ3MeDqWk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Lord Champfort",
+                "published_at": "2019-07-13T19:42:01Z",
+                "id": "gl8isx24Fe8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Epic Rankings Tier List | Version 1",
+                "published_at": "2019-07-13T18:36:45Z",
+                "id": "MmTTBj0pBGs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Prince Kymar",
+                "published_at": "2019-07-12T02:11:40Z",
+                "id": "smLi2hzLL-I",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "prince-kymar"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Dungeon Guide | Magic Keep",
+                "published_at": "2019-07-11T00:49:17Z",
+                "id": "mLnlHClTEgw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Training Event | Tips / Discussion",
+                "published_at": "2019-07-10T00:32:26Z",
+                "id": "gCAEwXOflss",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Legendary Rankings Tier List | Version 1",
+                "published_at": "2019-07-09T00:08:23Z",
+                "id": "suRpHuDCq30",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Champion Guide | Foli",
+                "published_at": "2019-07-07T19:29:24Z",
+                "id": "J9Xk6h4jOY0",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "foli"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Foli Fusion Discussion",
+                "published_at": "2019-07-06T00:52:08Z",
+                "id": "4Vgl8yWVwgg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Patch 1.8 New Champions Review",
+                "published_at": "2019-07-04T19:22:11Z",
+                "id": "DxdCb7_C-xc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Patch 1.8 is here! Review of what's coming!",
+                "published_at": "2019-07-04T17:26:34Z",
+                "id": "AMiu6fAZ9rM",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Seeker Champion Guide",
+                "published_at": "2019-07-04T01:24:03Z",
+                "id": "Cg2-I6WYsCo",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "seeker"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Masteries Guide",
+                "published_at": "2019-07-02T01:18:52Z",
+                "id": "wJCZFalV3pc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Steelskull | Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "-ZC5wbhj2lI",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "steelskull"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | Jinglehunter | Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "eGkf4N28eKc",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "jinglehunter"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends - Aothar Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "abAPMTcbtj8",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "aothar"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends - Spirithost Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "fJkfsf-JJ10",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "spirithost"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends - Bellower Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "FnN_abblWnQ",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "bellower"
+                }
+            },
+            {
+                "title": "RAID: SL - Juliana Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "e0l6lKCfhGo",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "juliana"
+                }
+            },
+            {
+                "title": "RAID: SL - Apothecary Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "392G2WIL0nA",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "apothecary"
+                }
+            },
+            {
+                "title": "RAID: SL - Kael Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "uW3lD4sMIJk",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "kael"
+                }
+            },
+            {
+                "title": "RAID: SL - Athel Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "6xzBf3SmMK0",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "athel"
+                }
+            },
+            {
+                "title": "RAID: SL - Executioner Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "gMzc0mo3MSg",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "executioner"
+                }
+            },
+            {
+                "title": "RAID: SL - RelicKeeper Champion Guide",
+                "published_at": "2019-06-30T02:50:51Z",
+                "id": "xpfGZMvoBrg",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "relickeeper"
+                }
+            },
+            {
+                "title": "RAID Shadow Legends | ChoseN's 10 Undervalued Champs | July 2019",
+                "published_at": "2019-06-29T21:30:10Z",
+                "id": "m4Cq1Nrpfas",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends | Spirit Keep | Dungeon Guide",
+                "published_at": "2019-06-25T00:54:19Z",
+                "id": "5IvNbt0LpJw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - Dragon's Lair - Dungeon Guide",
+                "published_at": "2019-06-22T20:10:04Z",
+                "id": "Go6YacV_3y8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - Void Keep - Dungeon Guide",
+                "published_at": "2019-06-16T18:16:10Z",
+                "id": "qyrEdS3JM2Y",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - Clan Boss Solo Kill / Walkthrough",
+                "published_at": "2019-06-15T22:33:44Z",
+                "id": "Prr62xWUf2M",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - Arcane Keep - Dungeon Guide",
+                "published_at": "2019-06-14T23:13:13Z",
+                "id": "MLzOJvHIfVE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: Shadow Legends - Community Update #7 - 5,000 Subs Bonus Giveaway",
+                "published_at": "2019-06-14T00:33:41Z",
+                "id": "9Q3F80XsICg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - HUGE Shard Opening #6",
+                "published_at": "2019-06-12T00:36:53Z",
+                "id": "0dX5O2DzoFc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - Community Update #6 - June 10, 2019",
+                "published_at": "2019-06-10T23:22:06Z",
+                "id": "YjIc7KlYLtI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - Spider's Den - Dungeon Guide",
+                "published_at": "2019-06-10T02:55:26Z",
+                "id": "vgDQM6Bdo-k",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: Shadow Legends - HUGE Shard Opening 5",
+                "published_at": "2019-06-08T19:42:34Z",
+                "id": "RbE1X_RpuJ4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - How to get Gold League in The Arena",
+                "published_at": "2019-06-05T00:11:58Z",
+                "id": "PPHAzQ2Iy8M",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Brutal Campaign Drop Rates Explained",
+                "published_at": "2019-06-04T00:20:39Z",
+                "id": "lqrgfwrExbI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - HUGE Shard Opening 4",
+                "published_at": "2019-06-01T00:29:56Z",
+                "id": "W3C_t1Amngg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - How much does it really take to make a 6 star champ?",
+                "published_at": "2019-05-31T01:03:23Z",
+                "id": "Mybijf7ECVg",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - HUGE Shard Opening 3 (40 Ancient)",
+                "published_at": "2019-05-27T21:36:39Z",
+                "id": "MXtf1vjybDs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID Shadow Legends - 10 Tips / Tricks Every Beginner Should Know",
+                "published_at": "2019-05-27T01:21:19Z",
+                "id": "gqG6HQEQr88",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Minotaur's Labyrinth - Basics Guide",
+                "published_at": "2019-05-25T02:48:48Z",
+                "id": "jTZF4pPLGSc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - HUGE Shard Opening 2 (2 Sacred, 5 Void, 43 Ancient)",
+                "published_at": "2019-05-23T00:00:29Z",
+                "id": "qJsqcjB7ink",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - How to properly star up champs / Shard management",
+                "published_at": "2019-05-20T23:43:00Z",
+                "id": "N_tUIwB2HzU",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Who should you 6 star first and when?",
+                "published_at": "2019-05-17T00:00:51Z",
+                "id": "0aQXkxWDj8I",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Community Update #5 - Lore videos?! Dark Athel?",
+                "published_at": "2019-05-16T00:16:12Z",
+                "id": "K9wczcDLCXA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Clan Boss Beginner's Guide",
+                "published_at": "2019-05-15T01:03:30Z",
+                "id": "8JUyP8XNq3U",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Beginner's Guide to The Market and Silver Management",
+                "published_at": "2019-05-12T19:40:32Z",
+                "id": "saAuQjfl4hk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Community Update 4.0 - New Champs?! + Player Compensation",
+                "published_at": "2019-05-11T01:55:17Z",
+                "id": "rNV4VRzALFA",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Community Update 3.0 - Tournament, Server Issues",
+                "published_at": "2019-05-09T00:15:15Z",
+                "id": "HNcZ0HZ-zFI",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Community Update 2.0 - May 07, 2019",
+                "published_at": "2019-05-08T00:25:16Z",
+                "id": "utB9h2c0vW8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Top 10 Legendary Champs v1.0",
+                "published_at": "2019-05-04T20:32:03Z",
+                "id": "fpGOro76MZE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Community Update 1.0 - May 03, 2019",
+                "published_at": "2019-05-04T00:35:11Z",
+                "id": "fT865FDpQV8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - HUGE Shard Opening (50 Ancient / 3 Sacred)",
+                "published_at": "2019-05-02T02:27:01Z",
+                "id": "bS5vCDDNqrk",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - New Player Priority / Efficiency Guide",
+                "published_at": "2019-05-01T01:16:30Z",
+                "id": "0dece9TOABQ",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Clickable List of All Buffs / Debuffs",
+                "published_at": "2019-04-28T20:23:33Z",
+                "id": "oTywo77ZrOY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Top 10 Rare Champions v2.0",
+                "published_at": "2019-04-27T22:26:40Z",
+                "id": "5ZBsgCRTXe0",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Ranking the 4 Starting Champions",
+                "published_at": "2019-04-25T23:04:26Z",
+                "id": "arFkWoZ3dPs",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Handy Spreadsheet For Farming Info",
+                "published_at": "2019-04-24T23:42:32Z",
+                "id": "EEseBtjjeM8",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - How to calculate how good a real money offer is.",
+                "published_at": "2019-04-22T19:47:45Z",
+                "id": "AaHn18-pcUE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Is Sparring Pit Worth It?",
+                "published_at": "2019-04-19T02:24:38Z",
+                "id": "roM8XjHAe9E",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Is the Gem Mine worth it?",
+                "published_at": "2019-04-17T23:11:45Z",
+                "id": "s7sxwNlsCSw",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Beginner's Guide to Artifacts and Sets",
+                "published_at": "2019-04-15T23:50:43Z",
+                "id": "ZWImqE13JKo",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Top 10 Epics v1.0",
+                "published_at": "2019-04-14T18:12:24Z",
+                "id": "-9bWI9O-xag",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: Shadow Legends - Review / Should you play?",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "aMRYd7NlGR4",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Raid Shadow Legends - Beginner / Basics Guide",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "U5nwOquS7BY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Raid: Shadow Legends - Early game efficient farming calculations",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "vOTacF6C684",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Raid: Shadow Legends - Top 10 Rare Champions v1.0",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "YI8I2lYtpBY",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Raid: Shadow Legends - Is fusing RelicKeeper worth it?",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "AV4oeD7s0Pc",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "Raid: SL - The basics of Arena and how to build a successful squad",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "ScrwsOmmz9Q",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "RAID: SL - Not all common / uncommons are trash.  A few to watch out for early / mid game.",
+                "published_at": "2019-04-13T20:05:20Z",
+                "id": "MDGVPaQrj08",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            }
+        ]
+    }
+}
