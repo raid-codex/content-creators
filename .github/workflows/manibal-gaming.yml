@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Stewgaming
+name: Manibal Gaming
 
 on:
   schedule:
@@ -28,18 +28,18 @@ jobs:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
         export GOPATH=`pwd`
-        make CREATOR=stewgaming update_creator
+        make CREATOR=manibal-gaming update_creator
         rm -rf src/
     - name: Create Pull Request
       id: cpr
       uses: peter-evans/create-pull-request@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: "feat: updated stewgaming"
+        commit-message: "feat: updated Manibal Gaming"
         author: Geoffrey Bauduin <geoffreybauduin@users.noreply.github.com>
-        title: 'Updated stewgaming'
+        title: 'Updated Manibal Gaming'
         base: master
-        branch: wstewgaming
+        branch: wmanibal-gaming
         body: |
           Automatically generated
         assignees: geoffreybauduin

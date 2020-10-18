@@ -49,7 +49,7 @@ def is_good_video(video):
 
 with open(sys.argv[1]) as file:
     data = json.load(file)
-    old_videos = {video['id']: video for video in data['youtube']['videos']}
+    old_videos = {video['id']: video for video in data['youtube'].get('videos', [])}
     videos = []
     for playlist in data['youtube']['playlists']:
         from_playlist = get_videos_from_playlist(playlist_id=playlist['id'])

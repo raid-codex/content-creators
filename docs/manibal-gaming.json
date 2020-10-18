@@ -1,0 +1,258 @@
+{
+    "name": "Manibal Gaming",
+    "type": "youtube",
+    "excerpt": "Manibal Gaming is a YouTuber creating content for RAID: Shadow Legends. He is a member of the 'Gods & Legends' clan.",
+    "picture": "/img/content-creators/manibal-gaming/picture.jpg",
+    "links": {
+        "youtube": "UCp0LUFtXPz7EuIAczNJF6pA",
+        "twitch": "manibalgaming",
+        "discord": "vNT8DT8"
+    },
+    "youtube": {
+        "id": "UCp0LUFtXPz7EuIAczNJF6pA",
+        "playlists": [
+            {
+                "id": "PLiGBVU6cJA7XfbpmuMxUAuNJGX--IwWyA",
+                "tags": [
+                    "champion-guide"
+                ]
+            },
+            {
+                "id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "id": "PLiGBVU6cJA7VcFF-JsD1Xw-EKYGZuiSwk"
+            },
+            {
+                "id": "PLiGBVU6cJA7ULlygd-1yoCQB93cyvm5sa"
+            },
+            {
+                "id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            }
+        ],
+        "videos": [
+            {
+                "title": "NEW INFORMATION! DROP RATES EXPLAINED! - Raid Shadow Legends .",
+                "published_at": "2020-10-14T18:28:41Z",
+                "id": "uDyA8bRfc4c",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "STREAM HIGHLIGHTS AND TIPS TO BE A BETTER PLAYER IN ARENA (Commentary)",
+                "published_at": "2020-10-08T20:43:14Z",
+                "id": "LeeTsfsMdTk",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "DO NOT PASS ON THIS IMPORTANT CHAMPION | Raid Shadow Legends [Vergumkaar]",
+                "published_at": "2020-10-06T17:51:21Z",
+                "id": "XtMOWP-FOz4",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "REAL REASON why its HARD and HOW IT WORKS! - Raid Shadow Legends [wystix]",
+                "published_at": "2020-10-03T01:54:54Z",
+                "id": "MpkK4tOM69M",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "Am I gonna get lucky? PULLING ALL MY SACREDS - Raid Shadow Legends -x2",
+                "published_at": "2020-09-29T14:30:11Z",
+                "id": "yN4HZMV3AGU",
+                "playlist_id": "PLiGBVU6cJA7VcFF-JsD1Xw-EKYGZuiSwk"
+            },
+            {
+                "title": "3 WAYS TO BUILD HER - Raid Shadow Legends (Champion Martyr)",
+                "published_at": "2020-09-25T15:35:43Z",
+                "id": "TBXd5WTdQYE",
+                "playlist_id": "PLiGBVU6cJA7XfbpmuMxUAuNJGX--IwWyA",
+                "champion_guide": {
+                    "champion_slug": "martyr"
+                }
+            },
+            {
+                "title": "PROVOKE AND BEAT SPEED TEAMS | Raid Shadow Legends [Arena Strategy]",
+                "published_at": "2020-09-24T05:53:34Z",
+                "id": "jMLMjpHLjdw",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            },
+            {
+                "title": "HUGE MISTAKE I DID and wished i had known before | Raid Shadow Legends",
+                "published_at": "2020-09-19T15:30:42Z",
+                "id": "Obyb8Z-1NME",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "WHAT'S NEXT IN THE GAME. TOP CHAMPION DISCUSSION - Raid Shadow Legends [Podcast]",
+                "published_at": "2020-09-16T13:58:39Z",
+                "id": "RPwPD1_j2Qk",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "TOP NEW STRATEGY : NO DEFENSE DOWN NEEDED! Raid Shadow Legends",
+                "published_at": "2020-09-12T16:44:23Z",
+                "id": "rO8X0dajL_0",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            },
+            {
+                "title": "TOP NEW Arena Strategy, Gameplay and Masteries - RAID Shadow Legends .",
+                "published_at": "2020-09-06T18:06:49Z",
+                "id": "FnxXQdiykio",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            },
+            {
+                "title": "UPDATES MY TOP LIST CHAMPIONS news and more Raid Shadow Legends ...",
+                "published_at": "2020-08-31T00:31:51Z",
+                "id": "jTyZ_4Q-Ghw",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "2x SACRED SUMMONS and REMOVING yesterday's video Raid Shadow Legends",
+                "published_at": "2020-08-25T19:54:58Z",
+                "id": "46He4-xccDU",
+                "playlist_id": "PLiGBVU6cJA7VcFF-JsD1Xw-EKYGZuiSwk"
+            },
+            {
+                "title": "Gold Gold Gold She pulled 5 from 17 - Impressive luck",
+                "published_at": "2020-08-21T21:27:04Z",
+                "id": "4gVmXJuJEfs",
+                "playlist_id": "PLiGBVU6cJA7VcFF-JsD1Xw-EKYGZuiSwk"
+            },
+            {
+                "title": "MY TOP LIST of CHAMPIONS to REBALANCE in Raid Shadow Legends (suggestions)",
+                "published_at": "2020-08-20T11:40:50Z",
+                "id": "Wv6u9qsA9y4",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "NEW TOP STRATEGY to counter-attack in arena (Raid Shadow Legends)",
+                "published_at": "2020-08-17T22:03:30Z",
+                "id": "DjKqAkvJU_0",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            },
+            {
+                "title": "CHAMPION SPOTLIGHT veil buff ARENA boss CANDRAPHON  Raid Shadow Legends",
+                "published_at": "2020-08-08T10:36:25Z",
+                "id": "2VZ1Y8aIqEA",
+                "playlist_id": "PLiGBVU6cJA7XfbpmuMxUAuNJGX--IwWyA",
+                "champion_guide": {
+                    "champion_slug": "candraphon"
+                }
+            },
+            {
+                "title": "HIGHLIGHTS on Last Monday arena push Raid Shadow Legends [LilWheel:The Final Boss]",
+                "published_at": "2020-08-06T02:11:49Z",
+                "id": "c8rhivm__aY",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "CHAMPION spotlight ARENA NUKING GODDESS Yannica Raid Shadow Legends",
+                "published_at": "2020-08-04T11:48:44Z",
+                "id": "_0NX1vMZZNA",
+                "playlist_id": "PLiGBVU6cJA7XfbpmuMxUAuNJGX--IwWyA",
+                "champion_guide": {
+                    "champion_slug": "yannica"
+                }
+            },
+            {
+                "title": "HIGHLIGHTS on last monday arena push Raid Shadow Legends [with commentary]",
+                "published_at": "2020-08-02T23:14:43Z",
+                "id": "tBvBfD2RlzY",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "END GAME STRATEGY what you need to know CLAN BOSS vs TAG TEAM ARENA [REWARDS]",
+                "published_at": "2020-08-01T17:18:40Z",
+                "id": "Fies_3hqd2w",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "DRAGON 20 in 18 seconds WORLD RECORD time Raid (100% Win Rate)",
+                "published_at": "2020-07-25T20:39:38Z",
+                "id": "6jx-AOjIpWY",
+                "playlist_id": "PLiGBVU6cJA7ULlygd-1yoCQB93cyvm5sa"
+            },
+            {
+                "title": "1 year, 150 dollar SPENT Raid Shadow Legends feat. zShaNKeRz Account",
+                "published_at": "2020-07-24T16:05:06Z",
+                "id": "38NcNItIsGs",
+                "playlist_id": "PLiGBVU6cJA7ULlygd-1yoCQB93cyvm5sa"
+            },
+            {
+                "title": "3 boosters! 2 trophies?  Raid Shadow Legends Arena Reset ( \ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 sub)",
+                "published_at": "2020-07-22T05:02:18Z",
+                "id": "QuXOp0iIj1I",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "STRONGEST TRUNDA build Raid Shadow Legends Battle Strategies",
+                "published_at": "2020-07-20T13:55:53Z",
+                "id": "Ov_Un-UNCXw",
+                "playlist_id": "PLiGBVU6cJA7XfbpmuMxUAuNJGX--IwWyA"
+            },
+            {
+                "title": "Am i GONNA get 5? OPENING 321 Void Shards Raid Shadow Legends [Highlights]",
+                "published_at": "2020-07-12T13:49:55Z",
+                "id": "koSdH4YjGIk",
+                "playlist_id": "PLiGBVU6cJA7VcFF-JsD1Xw-EKYGZuiSwk"
+            },
+            {
+                "title": "The RED STRATEGY Raid Shadow Legends (Arena break down + counter hegemon)",
+                "published_at": "2020-07-09T20:25:09Z",
+                "id": "gUgxBQV2wBk",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            },
+            {
+                "title": "INSANE VOID SUMMONS 10x Raid Shadow Legends with baby sister",
+                "published_at": "2020-07-08T10:13:59Z",
+                "id": "gIDPon7rSQs",
+                "playlist_id": "PLiGBVU6cJA7VcFF-JsD1Xw-EKYGZuiSwk"
+            },
+            {
+                "title": "TOP ARENA Raid Shadow Legends (LOGIC & STRATEGY IN PLATINUM TIER)",
+                "published_at": "2020-07-04T11:18:18Z",
+                "id": "o81oEAWCFPs",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            },
+            {
+                "title": "EXPOSING the TRUTH - RAID Shadow Legends [Arena Reset]",
+                "published_at": "2020-06-30T19:08:23Z",
+                "id": "4xlrBFDPJig",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "Two boosters this week on arena raid shadow legends (arena reset highlights)",
+                "published_at": "2020-06-23T20:38:10Z",
+                "id": "Z7QE8tNkGLU",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "why not number one game in gacha games category Raid Shadow Legends",
+                "published_at": "2020-06-17T10:41:22Z",
+                "id": "cxxEXV9Xqss",
+                "playlist_id": "PLiGBVU6cJA7W17macgGqiGMvIMg20fXBx"
+            },
+            {
+                "title": "PLEASE STOP BOOSTING  Raid Shadow Legends Arena Reset",
+                "published_at": "2020-06-17T00:53:13Z",
+                "id": "LfcAkypt5bY",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "HIGHLIGHTS of my push this week. FIRE IT UP BOYS! Arena Reset",
+                "published_at": "2020-06-11T05:33:55Z",
+                "id": "S5Wjaqo2WT4",
+                "playlist_id": "PLiGBVU6cJA7VwV6LFUYL7mMGTxxq4vxET"
+            },
+            {
+                "title": "HOW to BEAT this CHAMPION -HEGEMON- Raid Shadow Legends",
+                "published_at": "2020-06-03T19:21:04Z",
+                "id": "6uSD1taU_xs",
+                "playlist_id": "PLiGBVU6cJA7V-zaEQJI0TMFqGZgld2ugk"
+            }
+        ]
+    }
+}
