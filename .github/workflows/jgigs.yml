@@ -1,0 +1,45 @@
+# This is a basic workflow to help you get started with Actions
+
+name: JGigs
+
+on:
+  schedule:
+    - cron:  '0 12 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
+      with:
+        repository: "raid-codex/data"
+        path: "src/github.com/raid-codex/data"
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Update list
+      env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      run: |
+        export GOPATH=`pwd`
+        make CREATOR=jgigs update_creator
+        rm -rf src/
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "feat: updated JGigs"
+        author: Geoffrey Bauduin <geoffreybauduin@users.noreply.github.com>
+        title: 'Updated JGigs'
+        base: master
+        branch: wjgigs
+        body: |
+          Automatically generated
+        assignees: geoffreybauduin
