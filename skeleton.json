@@ -1,0 +1,18 @@
+{
+    "name": "Stewgaming",
+    "type": "youtube",
+    "excerpt": "Stew is a YouTuber that has been creating a lot of content related to games like RAID: Shadow Legends.",
+    "picture": "/img/content-creators/stewgaming/picture.jpg",
+    "links": {
+        "youtube": "UC7roxCSDMzTzp5ptrlMff4w",
+        "patreon": "StewGaming",
+        "discord": "kGsKQ3p",
+        "twitch": "stewgamingtv"
+    },
+    "youtube": {
+        "id": "UC7roxCSDMzTzp5ptrlMff4w",
+        "playlists": [{
+            "id": "PL_1UU0RaTzZNwiHJTEW2P_5RcsOz9MbAl"
+        }]
+    }
+}
