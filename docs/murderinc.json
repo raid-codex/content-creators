@@ -31,6 +31,15 @@
         ],
         "videos": [
             {
+                "title": "Champion Spotlight: Ursuga Warcaller I Raid Shadow Legends",
+                "published_at": "2020-10-24T21:55:50Z",
+                "id": "X9YIaPt5Y6c",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "ursuga-warcaller"
+                }
+            },
+            {
                 "title": "Champion Spotlight: Vergumkaar I Raid Shadow Legends",
                 "published_at": "2020-10-18T17:38:12Z",
                 "id": "GyogxWp9-Oc",
