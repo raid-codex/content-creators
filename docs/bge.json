@@ -15,6 +15,12 @@
         "id": "UCvq6fZFXDLhxNj7CGEAcuXQ",
         "videos": [
             {
+                "title": "\"F2P\" KNIGHT REVENANT Faction Wars COMPLETED (10/13) | Guide & Champion Builds |RAID: Shadow Legends",
+                "published_at": "2020-11-05T18:31:34Z",
+                "id": "84U5dpK2L4Y",
+                "playlist_id": "PLBuh7ThuYFxT7jTLjyRFw9YaIeZpiZbF-"
+            },
+            {
                 "title": "\"F2P\" DARK ELVES Faction Wars COMPLETED (9/13) | Guide & Champion Builds | RAID: Shadow Legends",
                 "published_at": "2020-11-04T20:39:14Z",
                 "id": "DWX8RZn890c",
@@ -45,7 +51,10 @@
                 "title": "\"ONE-SHOT\" LITTLE MISS ANNIE Build, Guide & Masteries | The New BEST Champ !? | RAID: Shadow Legends",
                 "published_at": "2020-11-02T14:38:30Z",
                 "id": "aqxKdcePljs",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "little-miss-annie"
+                }
             },
             {
                 "title": "Spending \"100K GOLD BARS\" | MY Bazaar Monthly Buying Guide | RAID: Shadow Legends",
