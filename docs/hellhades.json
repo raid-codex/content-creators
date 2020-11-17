@@ -14,6 +14,24 @@
         "id": "UCbAYgOLXfYtc-HgoxjCnDZQ",
         "videos": [
             {
+                "title": "RAID | Shatterbones Champion Spotlight! Awesome but DUMB AI!",
+                "published_at": "2020-11-16T14:23:17Z",
+                "id": "SU8aYVePZk4",
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "shatterbones"
+                }
+            },
+            {
+                "title": "RAID | Bad-El-Kazar Champion Spotlight! Most Versatile Raid champion!",
+                "published_at": "2020-11-16T11:40:02Z",
+                "id": "RJZ-4m0XFRo",
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "bad-el-kazar"
+                }
+            },
+            {
                 "title": "RAID | ALL RARES REVIEWED Nov'20 - Undead, Lizards, Skins. Orcs, Demons, D Elves, Knights, Dwarves",
                 "published_at": "2020-11-14T13:46:54Z",
                 "id": "T-8YVLe5OKc",
