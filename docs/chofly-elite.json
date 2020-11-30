@@ -42,6 +42,21 @@
         ],
         "videos": [
             {
+                "title": "LIVE Unkillable Lydia Build! ft DeadwoodJedi | RAID Shadow Legends",
+                "published_at": "2020-11-28T20:53:48Z",
+                "id": "n-BNoreuCUs",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+            },
+            {
+                "title": "Raglin Champ Guide | Fully Maxed! | RAID Shadow Legends",
+                "published_at": "2020-11-27T21:02:32Z",
+                "id": "4waUHqTeAm4",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "raglin"
+                }
+            },
+            {
                 "title": "TURN METER 10X! | Should you summon? | RAID Shadow Legends",
                 "published_at": "2020-11-26T15:57:27Z",
                 "id": "0k5P4IbNL3E",
