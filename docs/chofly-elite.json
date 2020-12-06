@@ -42,10 +42,19 @@
         ],
         "videos": [
             {
+                "title": "ChoseN's Corner #22 | LeilaFoxNation | RAID Shadow Legends",
+                "published_at": "2020-12-05T15:47:40Z",
+                "id": "pJwQOhsBpbE",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
                 "title": "Bergoth the Malformed Guide | Decent or Trash? | RAID Shadow Legends",
                 "published_at": "2020-12-04T20:16:51Z",
                 "id": "VnmdInIcMEM",
-                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "bergoth-the-malformed"
+                }
             },
             {
                 "title": "2x Ancients Coming! DOOM in 4 days! | RAID Shadow Legends",
