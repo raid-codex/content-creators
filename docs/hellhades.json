@@ -14,6 +14,12 @@
         "id": "UCbAYgOLXfYtc-HgoxjCnDZQ",
         "videos": [
             {
+                "title": "RAID | Testing Gear Set BUFFS & Warmaster NERFS!",
+                "published_at": "2020-12-05T13:57:14Z",
+                "id": "enL59KaGXmU",
+                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
+            },
+            {
                 "title": "RAID | *NEW UNKILLABLE* PARAGON CHEESE THE CLAN BOSS!",
                 "published_at": "2020-12-04T13:30:32Z",
                 "id": "Uv9rquvSc3s",
@@ -83,7 +89,10 @@
                 "title": "RAID | NEW FREE FRAGMENT EVENT EPIC!! Bergoth the Malformed!",
                 "published_at": "2020-11-23T09:47:38Z",
                 "id": "zcjFRLVUI3k",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "bergoth-the-malformed"
+                }
             },
             {
                 "title": "RAID | KRISK CHAMPION SPOTLIGHT! THE BEAST!",
