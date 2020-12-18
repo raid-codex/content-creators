@@ -17,13 +17,19 @@
                 "title": "Pigsticker, NEW RARE, also stick SCARAB's! Full Guide | Raid: Shadow Legends",
                 "published_at": "2020-12-16T12:39:02Z",
                 "id": "FUT7dikNu1I",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "pigsticker"
+                }
             },
             {
                 "title": "NEW VOID EPIC INQUISITOR SHAMAEL, AS GOOD AS HE SOUNDS? | Raid: Shadow Legends",
                 "published_at": "2020-12-15T14:53:02Z",
                 "id": "eRLJwv6hM08",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "inquisitor-shamael"
+                }
             },
             {
                 "title": "AS HARD AS IT GETS! No Unkillable, No Ally Attack! UNM CB Takeover| Raid: Shadow Legends",
