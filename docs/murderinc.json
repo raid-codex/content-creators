@@ -31,16 +31,31 @@
         ],
         "videos": [
             {
+                "title": "Official Pyxniel Champion Guide I Raid Shadow Legends",
+                "published_at": "2020-12-17T12:23:25Z",
+                "id": "QnJDXeY_KfQ",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "pyxniel"
+                }
+            },
+            {
                 "title": "Rugnor Goldgleam is Absolutely Incredible I Raid Shadow Legends",
                 "published_at": "2020-12-16T10:59:16Z",
                 "id": "eHCdi8XHbUU",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "rugnor-goldgleam"
+                }
             },
             {
                 "title": "Gerhard the Stone Doing Insane Damage I Raid Shadow Legends",
                 "published_at": "2020-12-15T12:48:12Z",
                 "id": "wXt8bzWZ6PI",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "gerhard-the-stone"
+                }
             },
             {
                 "title": "#1 Global Fire Knight Tournament Infographics I Raid Shadow Legends",
