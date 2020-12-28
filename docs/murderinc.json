@@ -31,6 +31,15 @@
         ],
         "videos": [
             {
+                "title": "Champion Spotlight: Sir Nicholas I Raid Shadow Legends",
+                "published_at": "2020-12-27T20:09:05Z",
+                "id": "tVC6hYgYvgY",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "sir-nicholas"
+                }
+            },
+            {
                 "title": "Champion Spotlight: Inquisitor Shamael | Raid Shadow Legends",
                 "published_at": "2020-12-22T14:28:51Z",
                 "id": "22QvQlIVR9g",
