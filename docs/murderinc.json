@@ -31,6 +31,24 @@
         ],
         "videos": [
             {
+                "title": "Champion Spotlight: Rector Drath I Raid Shadow Legends",
+                "published_at": "2020-12-30T21:16:17Z",
+                "id": "7c8yavxMRBo",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "rector-drath"
+                }
+            },
+            {
+                "title": "Champion Spotlight Achak the Wendarin I Raid Shadow Legends",
+                "published_at": "2020-12-30T16:12:21Z",
+                "id": "spVCoCJLIGE",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "achak-the-wendarin"
+                }
+            },
+            {
                 "title": "Champion Spotlight: Sir Nicholas I Raid Shadow Legends",
                 "published_at": "2020-12-27T20:09:05Z",
                 "id": "tVC6hYgYvgY",
