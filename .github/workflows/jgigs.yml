@@ -4,7 +4,7 @@ name: JGigs
 
 on:
   schedule:
-    - cron:  '0 12 * * *'
+    - cron:  '0 15 * * *'
 
 jobs:
   build:
@@ -30,16 +30,14 @@ jobs:
         export GOPATH=`pwd`
         make CREATOR=jgigs update_creator
         rm -rf src/
-    - name: Create Pull Request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3.5.0
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add . --all
+        git commit -m "feat: updated JGigs"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: "feat: updated JGigs"
-        author: Geoffrey Bauduin <geoffreybauduin@users.noreply.github.com>
-        title: 'Updated JGigs'
-        base: master
-        branch: wjgigs
-        body: |
-          Automatically generated
-        assignees: geoffreybauduin
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
