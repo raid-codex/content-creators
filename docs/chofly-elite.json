@@ -42,6 +42,21 @@
         ],
         "videos": [
             {
+                "title": "RAID Daily Jan 20 | INSANE Account Giveaway!",
+                "published_at": "2021-01-20T16:42:15Z",
+                "id": "qHxbl131B5Y",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
+                "title": "ROXAM Champ Guide | Veil DMG Dealer! | RAID Shadow Legends",
+                "published_at": "2021-01-20T01:32:47Z",
+                "id": "TsTywQkGS1o",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "ox"
+                }
+            },
+            {
                 "title": "BEST Clan Boss Optimizer! v2.0 ft. DeadwoodJedi! RAID Shadow Legends",
                 "published_at": "2021-01-19T22:14:19Z",
                 "id": "qoUqDMLDGls",
