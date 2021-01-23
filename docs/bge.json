@@ -15,6 +15,12 @@
         "id": "UCvq6fZFXDLhxNj7CGEAcuXQ",
         "videos": [
             {
+                "title": "THE FREEZE Debuff... Got \"FIXED\" | Now More Powerful !? | More Iron Brago Fragments! | RAID",
+                "published_at": "2021-01-22T18:05:18Z",
+                "id": "qC4MnVyDNgw",
+                "playlist_id": "PLBuh7ThuYFxT7jTLjyRFw9YaIeZpiZbF-"
+            },
+            {
                 "title": "10X EVENT... You MUST Summon !? | INSANE Account Giveaway | RAID: Shadow Legends",
                 "published_at": "2021-01-21T15:30:33Z",
                 "id": "FmHxDRfeYZE",
@@ -36,13 +42,19 @@
                 "title": "\"TURN METER EXPERT\" Armina Build, Guide & Masteries | Amazing CC Champ | RAID: Shadow Legends",
                 "published_at": "2021-01-19T20:17:17Z",
                 "id": "nmb71DXmfAU",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "armina"
+                }
             },
             {
                 "title": "\"DEBUFF  EXPERT\" Dhukk The Pierced Build, Guide & Masteries | Use Everywhere! | RAID: Shadow Legends",
                 "published_at": "2021-01-19T18:36:15Z",
                 "id": "P6e2SxQbz2k",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "dhukk-the-pierced"
+                }
             },
             {
                 "title": "GAME CHANGING Mastery CONFIRMED !! | Buff Order PROOF !! | RAID: Shadow Legends",
@@ -54,7 +66,10 @@
                 "title": "\"LEGENDARY\" Fahrakin The Fat Build, Guide & Masteries | S-Tier Champion | RAID: Shadow Legends",
                 "published_at": "2021-01-17T21:11:16Z",
                 "id": "g7f-bt-KENo",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "fahrakin-the-fat"
+                }
             },
             {
                 "title": "*18 LEGENDARIES*... INSANE LUCK !? | 2X Ancient Shards Highlights! | RAID: Shadow Legends",
@@ -66,13 +81,19 @@
                 "title": "\"KING OF RING\" King Garog Build, Guide & Masteries | AMAZING Nuker Champ!! | RAID: Shadow Legends",
                 "published_at": "2021-01-15T16:26:40Z",
                 "id": "bWpporV1G2Q",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "king-garog"
+                }
             },
             {
                 "title": "\"MAXED OUT \"Iron Brago Build, Guide & Masteries | AMAZING FUSION Champ!! | RAID: Shadow Legends",
                 "published_at": "2021-01-15T14:55:55Z",
                 "id": "1_NhGF6EKfc",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "iron-brago"
+                }
             },
             {
                 "title": "GAME CHANGING MASTERY feat. DeadwoodJedi | Steadfast VS Clan Boss Stun Target | RAID: Shadow Legends",
