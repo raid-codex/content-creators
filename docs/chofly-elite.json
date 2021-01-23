@@ -42,6 +42,15 @@
         ],
         "videos": [
             {
+                "title": "Uugo is INSANE! | BEST Epic Champ?! | RAID Shadow Legends",
+                "published_at": "2021-01-22T03:55:50Z",
+                "id": "_Up20sY7fd8",
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "uugo"
+                }
+            },
+            {
                 "title": "NEW 10X! I WILL ACTUALLY PULL?! | RAID Shadow Legends",
                 "published_at": "2021-01-21T16:13:49Z",
                 "id": "p5WzpKkkLEY",
@@ -78,7 +87,10 @@
                 "title": "IRON BRAGO GUIDE! | Is he worth it?! | RAID Shadow Legends",
                 "published_at": "2021-01-16T03:11:37Z",
                 "id": "ULfQURfioyk",
-                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "iron-brago"
+                }
             },
             {
                 "title": "NEW OFFER STRUCTURE?! f2p Competition is LIVE! | RAID Shadow Legends",
