@@ -33,6 +33,12 @@
         ],
         "videos": [
             {
+                "title": "10x is REAL! Crazy summons w/ shake weight IT'S LIKE CHEATING! Raid Shadow Legends",
+                "published_at": "2021-01-23T11:31:18Z",
+                "id": "F_7So410vIA",
+                "playlist_id": "PL_1UU0RaTzZNwiHJTEW2P_5RcsOz9MbAl"
+            },
+            {
                 "title": "500 Ancient 10 legendaries! Raid Shadow Legends summons",
                 "published_at": "2021-01-22T07:41:23Z",
                 "id": "MNB3mu3SsgM",
@@ -69,7 +75,10 @@
                 "title": "King Garog - only looks amazing! What would you do to change him? Raid Shadow Legends",
                 "published_at": "2021-01-19T10:52:49Z",
                 "id": "EOsT2tdnuyQ",
-                "playlist_id": "PL_1UU0RaTzZNZ1VjiwwaYvtXab2k9XxA3"
+                "playlist_id": "PL_1UU0RaTzZNZ1VjiwwaYvtXab2k9XxA3",
+                "champion_guide": {
+                    "champion_slug": "king-garog"
+                }
             },
             {
                 "title": "Rigged summons. All content creators got King Garog! #KingGate2021 Raid Shadow Legends",
