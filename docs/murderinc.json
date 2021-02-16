@@ -31,16 +31,46 @@
         ],
         "videos": [
             {
+                "title": "A Day in the Life of a Whale I Raid Shadow Legends",
+                "published_at": "2021-02-16T16:23:17Z",
+                "id": "n036iwXtftQ",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+            },
+            {
+                "title": "5 Star Abyssal Being A Legend for 8 Minutes I Raid Shadow Legends",
+                "published_at": "2021-02-16T13:09:54Z",
+                "id": "uOzKMcUqC1o",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "abyssal"
+                }
+            },
+            {
+                "title": "Samar Gemcursed I Raid Shadow Legends",
+                "published_at": "2021-02-15T21:21:58Z",
+                "id": "T_5T97l3Mn8",
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "samar-gemcursed"
+                }
+            },
+            {
                 "title": "A Day in the Life of Scrapper I Raid Shadow Legends",
                 "published_at": "2021-02-15T12:04:19Z",
                 "id": "yWvU0NtWQp4",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "scrapper"
+                }
             },
             {
                 "title": "Astralon I Raid Shadow Legends",
                 "published_at": "2021-02-14T17:04:22Z",
                 "id": "VDGp34sVG9U",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "astralon"
+                }
             },
             {
                 "title": "Champion Spotlight: Godseeker Aniri I Raid Shadow Legends",
