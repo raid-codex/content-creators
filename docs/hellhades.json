@@ -14,6 +14,24 @@
         "id": "UCbAYgOLXfYtc-HgoxjCnDZQ",
         "videos": [
             {
+                "title": "Samar Gemcursed THE USELESS! | Raid: Shadow Legends",
+                "published_at": "2021-02-15T14:08:30Z",
+                "id": "kqQd3_1cycw",
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "samar-gemcursed"
+                }
+            },
+            {
+                "title": "Astralon Champion Spotlight! FUSE HIM! | Raid: Shadow Legends",
+                "published_at": "2021-02-15T13:37:24Z",
+                "id": "bD_nTLFXVlY",
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "astralon"
+                }
+            },
+            {
                 "title": "BUDGET MANEATER UNM & NM WITH ALLY ATTACK! | Raid: Shadow Legends",
                 "published_at": "2021-02-13T12:39:26Z",
                 "id": "R2HjAcqQtpE",
@@ -23,7 +41,10 @@
                 "title": "LODRIC FALCONHEART AMAZING CLAN BOSS OR SCARAB KING CHAMPION | Raid: Shadow Legends",
                 "published_at": "2021-02-13T12:28:58Z",
                 "id": "idulAH7TWak",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "lodric-falconheart"
+                }
             },
             {
                 "title": "10 WORST EPICS IN RAID! BUFF THESE!! | Raid: Shadow Legends",
