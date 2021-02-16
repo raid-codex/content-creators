@@ -33,6 +33,15 @@
         ],
         "videos": [
             {
+                "title": "Elder Skarg remove him from your vault! Eldar Skarg guide Raid Shadow Legends",
+                "published_at": "2021-02-16T10:23:49Z",
+                "id": "hgG-QE_WvNU",
+                "playlist_id": "PL_1UU0RaTzZNZ1VjiwwaYvtXab2k9XxA3",
+                "champion_guide": {
+                    "champion_slug": "elder-skarg"
+                }
+            },
+            {
                 "title": "Godseeker Aniri Arena testing & build Raid Shadow Legends Aniri guide",
                 "published_at": "2021-02-15T09:55:10Z",
                 "id": "F9usy5Mi9u8",
@@ -45,7 +54,10 @@
                 "title": "Scrapper NEW RARE! vs Scarab King! Raid Shadow Legends",
                 "published_at": "2021-02-13T13:06:48Z",
                 "id": "6Z-Wjarse70",
-                "playlist_id": "PL_1UU0RaTzZNZ1VjiwwaYvtXab2k9XxA3"
+                "playlist_id": "PL_1UU0RaTzZNZ1VjiwwaYvtXab2k9XxA3",
+                "champion_guide": {
+                    "champion_slug": "scrapper"
+                }
             },
             {
                 "title": "My account! HACKS summons! How can this happen? Raid Shadow Legends pulling all my shards.",
