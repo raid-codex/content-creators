@@ -15,6 +15,12 @@
         "id": "UCvq6fZFXDLhxNj7CGEAcuXQ",
         "videos": [
             {
+                "title": "\"RECORD SPEED\" Lodric Falconheart Vs Scarab King | HARD Doom Tower Floor 100 | RAID: Shadow Legends",
+                "published_at": "2021-02-16T16:34:07Z",
+                "id": "JYBrNrYKpto",
+                "playlist_id": "PLBuh7ThuYFxT7jTLjyRFw9YaIeZpiZbF-"
+            },
+            {
                 "title": "\"FIRST IMPRESSION\" Samar Build, Guide & Masteries | Arena Showcase | RAID: Shadow Legends",
                 "published_at": "2021-02-15T19:30:07Z",
                 "id": "slaMhw6lpN8",
@@ -39,7 +45,10 @@
                 "title": "\"STRIP & STUN\" Astralon Build, Guide & Masteries | Best Legendary Champions | RAID: Shadow Legends",
                 "published_at": "2021-02-14T15:56:03Z",
                 "id": "YW9n62GJV8M",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "astralon"
+                }
             },
             {
                 "title": "\"THE TOMB ANGEL\" Thea Build, Guide & Masteries | Best Legendary Champions | RAID: Shadow Legends",
@@ -51,7 +60,10 @@
                 "title": "\"RAID'S NEW GOD\" Cardiel Build, Guide & Masteries | Best Legendary Champions | RAID: Shadow Legends",
                 "published_at": "2021-02-13T17:04:33Z",
                 "id": "TLslaJqC1aE",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "cardiel"
+                }
             },
             {
                 "title": "\"MY FASTEST AUTO\" Kuldath The Magma Dragon Team | HARD Doom Tower Floor 80 | RAID: Shadow Legends",
