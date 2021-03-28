@@ -14,6 +14,12 @@
         "id": "UCbAYgOLXfYtc-HgoxjCnDZQ",
         "videos": [
             {
+                "title": "START FUSION PREP TODAY! Follow these tips! | Raid: Shadow Legends",
+                "published_at": "2021-03-28T10:39:20Z",
+                "id": "-rF3Wy4gv4o",
+                "playlist_id": "PLUIeSAUVoCqLgamm3-oZew1PkMxaLIDME"
+            },
+            {
                 "title": "THIS PLAYER NEEDED HELP BAD! Spider 19 & 20 Coaching | Raid: Shadow Legends",
                 "published_at": "2021-03-25T11:45:10Z",
                 "id": "qOgXJQzoh3o",
@@ -50,13 +56,19 @@
                 "title": "Jintoro the BEST SHADOWKIN! | Raid: Shadow Legends",
                 "published_at": "2021-03-19T11:30:49Z",
                 "id": "786ijyPk0HA",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "jintoro"
+                }
             },
             {
                 "title": "Yoshi the Drunkard Fragment FULL TEST! | Raid: Shadow Legends",
                 "published_at": "2021-03-16T13:10:47Z",
                 "id": "vLzfiyQkBxo",
-                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7"
+                "playlist_id": "PLUIeSAUVoCqJl4w-PvsOemybsjD9yeGC7",
+                "champion_guide": {
+                    "champion_slug": "yoshi-the-drunkard"
+                }
             },
             {
                 "title": "WHERE IS YOUR ACCURACY?? LVL 20 DUNGEONS TAKEOVER! | Raid: Shadow Legends",
