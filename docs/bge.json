@@ -15,6 +15,12 @@
         "id": "UCvq6fZFXDLhxNj7CGEAcuXQ",
         "videos": [
             {
+                "title": "MY FIRST UNKILLABLE TEAM | 80M \"Batman Forever\" UNM Team | RAID: Shadow Legends",
+                "published_at": "2021-03-27T19:15:49Z",
+                "id": "DYDEnRadaN0",
+                "playlist_id": "PLBuh7ThuYFxT7jTLjyRFw9YaIeZpiZbF-"
+            },
+            {
                 "title": "ANOTHER FUSION... Are We Ready!? | Underpriest Brogni Pre-Fusion Plan | RAID: Shadow Legends",
                 "published_at": "2021-03-26T18:01:54Z",
                 "id": "aHeXCndSjoI",
@@ -66,19 +72,28 @@
                 "title": "\"S-TIER NUKER\" Oboro Build, Guide & Masteries | Best Epic Champions | RAID: Shadow Legends",
                 "published_at": "2021-03-18T17:24:33Z",
                 "id": "MB7YpgB2ZG8",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "oboro"
+                }
             },
             {
                 "title": "\"SPEED DEMON\" Genzin Build, Guide & Masteries | Best Legendary Champions | RAID: Shadow Legends",
                 "published_at": "2021-03-17T18:45:50Z",
                 "id": "Fnol6zXeoAk",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "genzin"
+                }
             },
             {
                 "title": "\"2-KEY 1:1 UNM\" Toragi The Frog Build, Guide & Masteries | Best Epic Champions |RAID: Shadow Legends",
                 "published_at": "2021-03-17T15:25:07Z",
                 "id": "Kuc8C7omVBI",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "toragi-the-frog"
+                }
             },
             {
                 "title": "YOSHI FUSION PLAN... GET HIM!! | Arena Game Changer !? | RAID: Shadow Legends",
@@ -90,7 +105,10 @@
                 "title": "*USEFUL EVERYWHERE* Yoshi The Drunkard Build, Guide & Masteries | RAID: Shadow Legends",
                 "published_at": "2021-03-16T14:03:30Z",
                 "id": "k9mAdanQQ1w",
-                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0"
+                "playlist_id": "PLBuh7ThuYFxTDvfJCR-2ZRTbeAKe00oJ0",
+                "champion_guide": {
+                    "champion_slug": "yoshi-the-drunkard"
+                }
             },
             {
                 "title": "A QUEST FOR COUNTESS LIX !! | Guaranteed Champion Event Analysis | RAID: Shadow Legends",
