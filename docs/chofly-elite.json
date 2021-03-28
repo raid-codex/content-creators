@@ -54,6 +54,12 @@
                 "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
             },
             {
+                "title": "ChoseN's Corner | JGigs | RAID & General Discussion!",
+                "published_at": "2021-03-25T01:37:00Z",
+                "id": "NA1KXi0DN5I",
+                "playlist_id": "PLIB47J_4ZJWoxtSBUqV6tdQG7I5q8R9mN"
+            },
+            {
                 "title": "WORLD RECORD f2p Arbiter Missions! 63 days?! | RAID Shadow Legends",
                 "published_at": "2021-03-23T23:52:48Z",
                 "id": "Odq7L-q281c",
@@ -81,7 +87,10 @@
                 "title": "GENZIN | My Fav Shadowkin?! | RAID Shadow Legends",
                 "published_at": "2021-03-20T02:16:37Z",
                 "id": "9LZ-OOtakLI",
-                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n"
+                "playlist_id": "PLIB47J_4ZJWrGuqf1eBZgwqB2b0_wBh0n",
+                "champion_guide": {
+                    "champion_slug": "genzin"
+                }
             },
             {
                 "title": "2X SACREDS! STACKED Account Giveaway! | RAID Shadow Legends",
