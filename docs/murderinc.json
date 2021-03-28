@@ -55,37 +55,55 @@
                 "title": "Champion Spotlight: Toragi the Frog I Raid Shadow Legends",
                 "published_at": "2021-03-18T12:45:13Z",
                 "id": "tUtAhW5oxP0",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "toragi-the-frog"
+                }
             },
             {
                 "title": "Champion Spotlight: Oboro I Raid Shadow Legends",
                 "published_at": "2021-03-17T22:43:35Z",
                 "id": "x_o5KpNJSw0",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "oboro"
+                }
             },
             {
                 "title": "Champion Spotlight: Oboro I Raid Shadow Legends",
                 "published_at": "2021-03-17T21:40:52Z",
                 "id": "hOQBFrrMuk8",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "oboro"
+                }
             },
             {
                 "title": "Champion Spotlight: Genzin I Raid Shadow Legends",
                 "published_at": "2021-03-16T19:16:42Z",
                 "id": "hmeKrOBItTM",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "genzin"
+                }
             },
             {
                 "title": "Champion Spotlight: Jintoro I Raid Shadow Legends",
                 "published_at": "2021-03-16T13:02:06Z",
                 "id": "HO-Cah-HBZw",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "jintoro"
+                }
             },
             {
                 "title": "Yoshi the Drunkard Amazing Fragment Fusion I Raid Shadow Legends",
                 "published_at": "2021-03-16T12:59:58Z",
                 "id": "aRtS_O3DE-Y",
-                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G"
+                "playlist_id": "PLLJn963Q3yqC4THQMwsWKJFEXDNYWzD8G",
+                "champion_guide": {
+                    "champion_slug": "yoshi-the-drunkard"
+                }
             },
             {
                 "title": "Champion Spotlight: Countess Lix I Raid Shadow Legends",
